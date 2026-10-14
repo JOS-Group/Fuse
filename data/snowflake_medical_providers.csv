@@ -1,0 +1,501 @@
+PRVDR_ID,PROVIDER_NAME,SPECIALTY_CD,SPECIALTY_NAME,FACILITY_STATE,NETWORK_STATUS
+PRVDR-100000,"Dr. Mary Johnson, MD",INT_MED,Internal Medicine,NY,In-Network
+PRVDR-100001,"Dr. Patricia Garcia, MD",NEURO,Neurology,NY,In-Network
+PRVDR-100002,"Dr. Susan Miller, MD",PSYCH,Psychiatry,PA,In-Network
+PRVDR-100003,"Dr. Jennifer Rodriguez, MD",INT_MED,Internal Medicine,FL,In-Network
+PRVDR-100004,"Dr. Robert Lopez, MD",EMERG,Emergency Medicine,PA,In-Network
+PRVDR-100005,"Dr. Richard Martinez, MD",PSYCH,Psychiatry,DC,Out-of-Network
+PRVDR-100006,"Dr. Robert Brown, MD",CARD,Cardiology,DC,Out-of-Network
+PRVDR-100007,"Dr. Robert Jones, MD",PEDS,Pediatrics,DC,Out-of-Network
+PRVDR-100008,"Dr. James Smith, MD",PSYCH,Psychiatry,FL,In-Network
+PRVDR-100009,"Dr. Susan Jones, MD",NEURO,Neurology,VA,In-Network
+PRVDR-100010,"Dr. Richard Williams, MD",PSYCH,Psychiatry,VA,In-Network
+PRVDR-100011,"Dr. William Lopez, MD",RAD,Radiology,PA,Out-of-Network
+PRVDR-100012,"Dr. John Jones, MD",INT_MED,Internal Medicine,CA,In-Network
+PRVDR-100013,"Dr. Karen Garcia, MD",NEURO,Neurology,FL,In-Network
+PRVDR-100014,"Dr. John Wilson, MD",PEDS,Pediatrics,NY,In-Network
+PRVDR-100015,"Dr. Robert Brown, MD",ORTHO,Orthopedics,VA,Out-of-Network
+PRVDR-100016,"Dr. Barbara Wilson, MD",ONC,Oncology,PA,In-Network
+PRVDR-100017,"Dr. David Williams, MD",DERM,Dermatology,CA,In-Network
+PRVDR-100018,"Dr. James Martinez, MD",DERM,Dermatology,CA,In-Network
+PRVDR-100019,"Dr. Richard Martinez, MD",EMERG,Emergency Medicine,MD,In-Network
+PRVDR-100020,"Dr. Jessica Gonzalez, MD",INT_MED,Internal Medicine,DC,Out-of-Network
+PRVDR-100021,"Dr. Karen Williams, MD",GEN_SURG,General Surgery,MD,In-Network
+PRVDR-100022,"Dr. William Jones, MD",PULM,Pulmonology,OH,Out-of-Network
+PRVDR-100023,"Dr. Barbara Moore, MD",EMERG,Emergency Medicine,PA,Out-of-Network
+PRVDR-100024,"Dr. Robert Smith, MD",PEDS,Pediatrics,VA,In-Network
+PRVDR-100025,"Dr. David Miller, MD",CARD,Cardiology,MD,Out-of-Network
+PRVDR-100026,"Dr. Thomas Martinez, MD",EMERG,Emergency Medicine,CA,Out-of-Network
+PRVDR-100027,"Dr. Susan Gonzalez, MD",INT_MED,Internal Medicine,CA,In-Network
+PRVDR-100028,"Dr. David Williams, MD",RAD,Radiology,VA,In-Network
+PRVDR-100029,"Dr. John Moore, MD",ONC,Oncology,TX,In-Network
+PRVDR-100030,"Dr. Elizabeth Wilson, MD",PSYCH,Psychiatry,DC,In-Network
+PRVDR-100031,"Dr. Linda Williams, MD",PULM,Pulmonology,VA,Out-of-Network
+PRVDR-100032,"Dr. Karen Martin, MD",CARD,Cardiology,NC,In-Network
+PRVDR-100033,"Dr. Patricia Smith, MD",PSYCH,Psychiatry,PA,In-Network
+PRVDR-100034,"Dr. Jennifer Thomas, MD",ONC,Oncology,CA,In-Network
+PRVDR-100035,"Dr. Jennifer Lopez, MD",ORTHO,Orthopedics,NC,In-Network
+PRVDR-100036,"Dr. James Hernandez, MD",PULM,Pulmonology,NC,In-Network
+PRVDR-100037,"Dr. David Jackson, MD",EMERG,Emergency Medicine,VA,Out-of-Network
+PRVDR-100038,"Dr. Joseph Taylor, MD",ONC,Oncology,MD,Out-of-Network
+PRVDR-100039,"Dr. Charles Garcia, MD",ONC,Oncology,PA,In-Network
+PRVDR-100040,"Dr. Patricia Jackson, MD",EMERG,Emergency Medicine,VA,In-Network
+PRVDR-100041,"Dr. Thomas Smith, MD",CARD,Cardiology,MD,In-Network
+PRVDR-100042,"Dr. Mary Thomas, MD",ONC,Oncology,TX,In-Network
+PRVDR-100043,"Dr. Jennifer Johnson, MD",GEN_SURG,General Surgery,TX,In-Network
+PRVDR-100044,"Dr. William Davis, MD",PULM,Pulmonology,FL,In-Network
+PRVDR-100045,"Dr. Robert Jackson, MD",ONC,Oncology,VA,In-Network
+PRVDR-100046,"Dr. Jennifer Davis, MD",GEN_SURG,General Surgery,MD,Out-of-Network
+PRVDR-100047,"Dr. Robert Anderson, MD",RAD,Radiology,NC,In-Network
+PRVDR-100048,"Dr. Robert Moore, MD",NEURO,Neurology,MD,In-Network
+PRVDR-100049,"Dr. Michael Martinez, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100050,"Dr. Joseph Lopez, MD",PEDS,Pediatrics,NY,In-Network
+PRVDR-100051,"Dr. Sarah Davis, MD",ORTHO,Orthopedics,MD,Out-of-Network
+PRVDR-100052,"Dr. James Davis, MD",GEN_SURG,General Surgery,FL,In-Network
+PRVDR-100053,"Dr. William Smith, MD",EMERG,Emergency Medicine,TX,In-Network
+PRVDR-100054,"Dr. Patricia Miller, MD",GEN_SURG,General Surgery,DC,Out-of-Network
+PRVDR-100055,"Dr. Jessica Johnson, MD",ORTHO,Orthopedics,NC,In-Network
+PRVDR-100056,"Dr. Mary Davis, MD",GEN_SURG,General Surgery,TX,In-Network
+PRVDR-100057,"Dr. Joseph Williams, MD",PEDS,Pediatrics,VA,In-Network
+PRVDR-100058,"Dr. Richard Williams, MD",PEDS,Pediatrics,OH,In-Network
+PRVDR-100059,"Dr. Susan Jones, MD",DERM,Dermatology,NC,In-Network
+PRVDR-100060,"Dr. William Gonzalez, MD",PSYCH,Psychiatry,FL,In-Network
+PRVDR-100061,"Dr. Joseph Rodriguez, MD",DERM,Dermatology,VA,In-Network
+PRVDR-100062,"Dr. John Jackson, MD",INT_MED,Internal Medicine,PA,In-Network
+PRVDR-100063,"Dr. Jennifer Anderson, MD",NEURO,Neurology,FL,Out-of-Network
+PRVDR-100064,"Dr. Patricia Moore, MD",ONC,Oncology,DC,Out-of-Network
+PRVDR-100065,"Dr. Elizabeth Anderson, MD",RAD,Radiology,VA,In-Network
+PRVDR-100066,"Dr. Jennifer Martinez, MD",PSYCH,Psychiatry,OH,In-Network
+PRVDR-100067,"Dr. Michael Hernandez, MD",ORTHO,Orthopedics,VA,In-Network
+PRVDR-100068,"Dr. Barbara Gonzalez, MD",GEN_SURG,General Surgery,MD,In-Network
+PRVDR-100069,"Dr. David Garcia, MD",CARD,Cardiology,TX,Out-of-Network
+PRVDR-100070,"Dr. Sarah Moore, MD",DERM,Dermatology,VA,Out-of-Network
+PRVDR-100071,"Dr. Patricia Jones, MD",INT_MED,Internal Medicine,MD,In-Network
+PRVDR-100072,"Dr. Linda Jones, MD",DERM,Dermatology,TX,In-Network
+PRVDR-100073,"Dr. Robert Jackson, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100074,"Dr. James Williams, MD",DERM,Dermatology,NY,In-Network
+PRVDR-100075,"Dr. Robert Hernandez, MD",INT_MED,Internal Medicine,MD,Out-of-Network
+PRVDR-100076,"Dr. Mary Garcia, MD",PEDS,Pediatrics,TX,Out-of-Network
+PRVDR-100077,"Dr. Jessica Smith, MD",PULM,Pulmonology,TX,In-Network
+PRVDR-100078,"Dr. Barbara Miller, MD",ORTHO,Orthopedics,NC,In-Network
+PRVDR-100079,"Dr. Joseph Jones, MD",CARD,Cardiology,OH,In-Network
+PRVDR-100080,"Dr. Elizabeth Thomas, MD",PULM,Pulmonology,CA,Out-of-Network
+PRVDR-100081,"Dr. Mary Williams, MD",RAD,Radiology,TX,In-Network
+PRVDR-100082,"Dr. Susan Miller, MD",EMERG,Emergency Medicine,CA,In-Network
+PRVDR-100083,"Dr. Sarah Smith, MD",PULM,Pulmonology,FL,Out-of-Network
+PRVDR-100084,"Dr. Sarah Thomas, MD",ONC,Oncology,OH,In-Network
+PRVDR-100085,"Dr. Richard Rodriguez, MD",ORTHO,Orthopedics,MD,In-Network
+PRVDR-100086,"Dr. Karen Davis, MD",CARD,Cardiology,NC,In-Network
+PRVDR-100087,"Dr. Jessica Taylor, MD",ONC,Oncology,OH,In-Network
+PRVDR-100088,"Dr. Jennifer Brown, MD",DERM,Dermatology,DC,In-Network
+PRVDR-100089,"Dr. Sarah Johnson, MD",DERM,Dermatology,OH,Out-of-Network
+PRVDR-100090,"Dr. Barbara Garcia, MD",ORTHO,Orthopedics,DC,In-Network
+PRVDR-100091,"Dr. Barbara Jackson, MD",CARD,Cardiology,FL,In-Network
+PRVDR-100092,"Dr. Charles Miller, MD",NEURO,Neurology,CA,In-Network
+PRVDR-100093,"Dr. Jennifer Thomas, MD",CARD,Cardiology,VA,In-Network
+PRVDR-100094,"Dr. Linda Martin, MD",DERM,Dermatology,MD,Out-of-Network
+PRVDR-100095,"Dr. James Hernandez, MD",PEDS,Pediatrics,DC,In-Network
+PRVDR-100096,"Dr. William Garcia, MD",ONC,Oncology,MD,In-Network
+PRVDR-100097,"Dr. John Jackson, MD",PSYCH,Psychiatry,PA,In-Network
+PRVDR-100098,"Dr. Thomas Lopez, MD",INT_MED,Internal Medicine,FL,Out-of-Network
+PRVDR-100099,"Dr. Charles Brown, MD",ONC,Oncology,NC,In-Network
+PRVDR-100100,"Dr. John Garcia, MD",PSYCH,Psychiatry,TX,Out-of-Network
+PRVDR-100101,"Dr. William Garcia, MD",PSYCH,Psychiatry,CA,In-Network
+PRVDR-100102,"Dr. Linda Jackson, MD",ORTHO,Orthopedics,TX,In-Network
+PRVDR-100103,"Dr. Elizabeth Jones, MD",ORTHO,Orthopedics,MD,Out-of-Network
+PRVDR-100104,"Dr. Charles Johnson, MD",ORTHO,Orthopedics,OH,In-Network
+PRVDR-100105,"Dr. Karen Davis, MD",EMERG,Emergency Medicine,OH,In-Network
+PRVDR-100106,"Dr. Jessica Jones, MD",ONC,Oncology,VA,In-Network
+PRVDR-100107,"Dr. Barbara Hernandez, MD",ORTHO,Orthopedics,VA,In-Network
+PRVDR-100108,"Dr. Joseph Smith, MD",RAD,Radiology,DC,In-Network
+PRVDR-100109,"Dr. Robert Lopez, MD",RAD,Radiology,VA,In-Network
+PRVDR-100110,"Dr. Mary Gonzalez, MD",NEURO,Neurology,TX,In-Network
+PRVDR-100111,"Dr. Susan Thomas, MD",PULM,Pulmonology,FL,Out-of-Network
+PRVDR-100112,"Dr. Patricia Thomas, MD",PEDS,Pediatrics,DC,In-Network
+PRVDR-100113,"Dr. Joseph Williams, MD",CARD,Cardiology,NC,In-Network
+PRVDR-100114,"Dr. William Rodriguez, MD",INT_MED,Internal Medicine,VA,In-Network
+PRVDR-100115,"Dr. Jennifer Gonzalez, MD",ORTHO,Orthopedics,VA,In-Network
+PRVDR-100116,"Dr. William Martin, MD",PEDS,Pediatrics,NY,In-Network
+PRVDR-100117,"Dr. Susan Garcia, MD",PEDS,Pediatrics,TX,In-Network
+PRVDR-100118,"Dr. Mary Brown, MD",ONC,Oncology,DC,In-Network
+PRVDR-100119,"Dr. Susan Moore, MD",PSYCH,Psychiatry,CA,In-Network
+PRVDR-100120,"Dr. Elizabeth Martinez, MD",DERM,Dermatology,VA,In-Network
+PRVDR-100121,"Dr. Richard Jackson, MD",GEN_SURG,General Surgery,NY,In-Network
+PRVDR-100122,"Dr. Mary Lopez, MD",CARD,Cardiology,TX,In-Network
+PRVDR-100123,"Dr. Elizabeth Martin, MD",NEURO,Neurology,DC,In-Network
+PRVDR-100124,"Dr. James Miller, MD",ORTHO,Orthopedics,NC,In-Network
+PRVDR-100125,"Dr. Jessica Brown, MD",RAD,Radiology,TX,Out-of-Network
+PRVDR-100126,"Dr. Jessica Rodriguez, MD",INT_MED,Internal Medicine,CA,Out-of-Network
+PRVDR-100127,"Dr. Jennifer Lopez, MD",PULM,Pulmonology,FL,In-Network
+PRVDR-100128,"Dr. Joseph Johnson, MD",RAD,Radiology,NY,Out-of-Network
+PRVDR-100129,"Dr. David Davis, MD",RAD,Radiology,OH,In-Network
+PRVDR-100130,"Dr. John Brown, MD",INT_MED,Internal Medicine,FL,Out-of-Network
+PRVDR-100131,"Dr. Charles Davis, MD",GEN_SURG,General Surgery,MD,Out-of-Network
+PRVDR-100132,"Dr. Thomas Wilson, MD",GEN_SURG,General Surgery,NY,In-Network
+PRVDR-100133,"Dr. Jessica Martinez, MD",INT_MED,Internal Medicine,TX,In-Network
+PRVDR-100134,"Dr. Thomas Jackson, MD",GEN_SURG,General Surgery,OH,In-Network
+PRVDR-100135,"Dr. Patricia Anderson, MD",ORTHO,Orthopedics,PA,In-Network
+PRVDR-100136,"Dr. Michael Jones, MD",CARD,Cardiology,TX,In-Network
+PRVDR-100137,"Dr. Susan Miller, MD",EMERG,Emergency Medicine,PA,In-Network
+PRVDR-100138,"Dr. William Williams, MD",INT_MED,Internal Medicine,TX,Out-of-Network
+PRVDR-100139,"Dr. Sarah Hernandez, MD",RAD,Radiology,CA,Out-of-Network
+PRVDR-100140,"Dr. James Martin, MD",PEDS,Pediatrics,CA,Out-of-Network
+PRVDR-100141,"Dr. Patricia Wilson, MD",ORTHO,Orthopedics,PA,In-Network
+PRVDR-100142,"Dr. Patricia Jackson, MD",INT_MED,Internal Medicine,NC,In-Network
+PRVDR-100143,"Dr. Susan Rodriguez, MD",PULM,Pulmonology,NY,Out-of-Network
+PRVDR-100144,"Dr. Mary Garcia, MD",RAD,Radiology,TX,In-Network
+PRVDR-100145,"Dr. Karen Martin, MD",EMERG,Emergency Medicine,TX,In-Network
+PRVDR-100146,"Dr. Richard Hernandez, MD",PSYCH,Psychiatry,DC,In-Network
+PRVDR-100147,"Dr. Jessica Rodriguez, MD",ONC,Oncology,MD,In-Network
+PRVDR-100148,"Dr. Elizabeth Martinez, MD",RAD,Radiology,NY,In-Network
+PRVDR-100149,"Dr. Linda Jones, MD",RAD,Radiology,NY,In-Network
+PRVDR-100150,"Dr. David Wilson, MD",PEDS,Pediatrics,VA,In-Network
+PRVDR-100151,"Dr. Joseph Miller, MD",PULM,Pulmonology,NY,In-Network
+PRVDR-100152,"Dr. Mary Taylor, MD",ORTHO,Orthopedics,VA,In-Network
+PRVDR-100153,"Dr. Thomas Gonzalez, MD",ORTHO,Orthopedics,CA,In-Network
+PRVDR-100154,"Dr. Jennifer Miller, MD",DERM,Dermatology,MD,In-Network
+PRVDR-100155,"Dr. Mary Anderson, MD",CARD,Cardiology,FL,In-Network
+PRVDR-100156,"Dr. David Lopez, MD",NEURO,Neurology,CA,Out-of-Network
+PRVDR-100157,"Dr. Patricia Smith, MD",DERM,Dermatology,FL,Out-of-Network
+PRVDR-100158,"Dr. Karen Anderson, MD",ORTHO,Orthopedics,NY,In-Network
+PRVDR-100159,"Dr. Barbara Garcia, MD",RAD,Radiology,VA,In-Network
+PRVDR-100160,"Dr. James Gonzalez, MD",CARD,Cardiology,PA,In-Network
+PRVDR-100161,"Dr. Linda Davis, MD",EMERG,Emergency Medicine,DC,In-Network
+PRVDR-100162,"Dr. Susan Taylor, MD",CARD,Cardiology,MD,Out-of-Network
+PRVDR-100163,"Dr. John Garcia, MD",PEDS,Pediatrics,MD,In-Network
+PRVDR-100164,"Dr. David Martin, MD",RAD,Radiology,NC,Out-of-Network
+PRVDR-100165,"Dr. Richard Lopez, MD",NEURO,Neurology,NC,In-Network
+PRVDR-100166,"Dr. Joseph Martinez, MD",EMERG,Emergency Medicine,CA,Out-of-Network
+PRVDR-100167,"Dr. Charles Brown, MD",CARD,Cardiology,CA,In-Network
+PRVDR-100168,"Dr. Sarah Martin, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100169,"Dr. Patricia Thomas, MD",INT_MED,Internal Medicine,FL,In-Network
+PRVDR-100170,"Dr. William Rodriguez, MD",RAD,Radiology,NC,In-Network
+PRVDR-100171,"Dr. John Taylor, MD",DERM,Dermatology,MD,Out-of-Network
+PRVDR-100172,"Dr. William Jones, MD",PSYCH,Psychiatry,MD,Out-of-Network
+PRVDR-100173,"Dr. Elizabeth Rodriguez, MD",PULM,Pulmonology,TX,Out-of-Network
+PRVDR-100174,"Dr. Mary Jackson, MD",PSYCH,Psychiatry,OH,In-Network
+PRVDR-100175,"Dr. William Davis, MD",EMERG,Emergency Medicine,CA,Out-of-Network
+PRVDR-100176,"Dr. Barbara Taylor, MD",RAD,Radiology,PA,In-Network
+PRVDR-100177,"Dr. Elizabeth Brown, MD",NEURO,Neurology,PA,In-Network
+PRVDR-100178,"Dr. Sarah Garcia, MD",EMERG,Emergency Medicine,FL,In-Network
+PRVDR-100179,"Dr. Linda Lopez, MD",DERM,Dermatology,NC,Out-of-Network
+PRVDR-100180,"Dr. William Lopez, MD",RAD,Radiology,OH,In-Network
+PRVDR-100181,"Dr. Joseph Brown, MD",NEURO,Neurology,MD,In-Network
+PRVDR-100182,"Dr. Jessica Miller, MD",GEN_SURG,General Surgery,VA,Out-of-Network
+PRVDR-100183,"Dr. Thomas Martinez, MD",PULM,Pulmonology,MD,In-Network
+PRVDR-100184,"Dr. John Miller, MD",ONC,Oncology,TX,Out-of-Network
+PRVDR-100185,"Dr. John Hernandez, MD",PSYCH,Psychiatry,PA,In-Network
+PRVDR-100186,"Dr. Jessica Hernandez, MD",EMERG,Emergency Medicine,PA,In-Network
+PRVDR-100187,"Dr. Mary Smith, MD",NEURO,Neurology,NC,In-Network
+PRVDR-100188,"Dr. Jennifer Jackson, MD",ORTHO,Orthopedics,NY,In-Network
+PRVDR-100189,"Dr. John Martin, MD",PULM,Pulmonology,TX,Out-of-Network
+PRVDR-100190,"Dr. Susan Thomas, MD",PULM,Pulmonology,MD,In-Network
+PRVDR-100191,"Dr. Sarah Miller, MD",PSYCH,Psychiatry,FL,In-Network
+PRVDR-100192,"Dr. William Taylor, MD",DERM,Dermatology,MD,In-Network
+PRVDR-100193,"Dr. Linda Davis, MD",PSYCH,Psychiatry,FL,In-Network
+PRVDR-100194,"Dr. John Brown, MD",PULM,Pulmonology,CA,In-Network
+PRVDR-100195,"Dr. Jennifer Williams, MD",CARD,Cardiology,NC,In-Network
+PRVDR-100196,"Dr. Joseph Taylor, MD",PEDS,Pediatrics,CA,In-Network
+PRVDR-100197,"Dr. Susan Jones, MD",ONC,Oncology,NY,In-Network
+PRVDR-100198,"Dr. Michael Garcia, MD",PULM,Pulmonology,MD,In-Network
+PRVDR-100199,"Dr. Linda Jones, MD",DERM,Dermatology,MD,In-Network
+PRVDR-100200,"Dr. Patricia Lopez, MD",PSYCH,Psychiatry,MD,Out-of-Network
+PRVDR-100201,"Dr. David Moore, MD",PEDS,Pediatrics,MD,In-Network
+PRVDR-100202,"Dr. Patricia Smith, MD",CARD,Cardiology,VA,Out-of-Network
+PRVDR-100203,"Dr. Joseph Gonzalez, MD",INT_MED,Internal Medicine,CA,In-Network
+PRVDR-100204,"Dr. Jessica Jones, MD",DERM,Dermatology,MD,In-Network
+PRVDR-100205,"Dr. Susan Brown, MD",EMERG,Emergency Medicine,CA,In-Network
+PRVDR-100206,"Dr. Karen Martin, MD",PSYCH,Psychiatry,PA,Out-of-Network
+PRVDR-100207,"Dr. Patricia Taylor, MD",PSYCH,Psychiatry,OH,In-Network
+PRVDR-100208,"Dr. Elizabeth Brown, MD",INT_MED,Internal Medicine,NY,In-Network
+PRVDR-100209,"Dr. Karen Miller, MD",RAD,Radiology,CA,In-Network
+PRVDR-100210,"Dr. Barbara Wilson, MD",RAD,Radiology,PA,In-Network
+PRVDR-100211,"Dr. Sarah Thomas, MD",DERM,Dermatology,NY,In-Network
+PRVDR-100212,"Dr. Linda Smith, MD",CARD,Cardiology,VA,In-Network
+PRVDR-100213,"Dr. Charles Thomas, MD",ORTHO,Orthopedics,VA,In-Network
+PRVDR-100214,"Dr. Patricia Rodriguez, MD",EMERG,Emergency Medicine,DC,Out-of-Network
+PRVDR-100215,"Dr. Elizabeth Rodriguez, MD",NEURO,Neurology,MD,In-Network
+PRVDR-100216,"Dr. Jennifer Johnson, MD",RAD,Radiology,FL,In-Network
+PRVDR-100217,"Dr. Susan Brown, MD",INT_MED,Internal Medicine,MD,In-Network
+PRVDR-100218,"Dr. John Garcia, MD",ONC,Oncology,FL,Out-of-Network
+PRVDR-100219,"Dr. Karen Rodriguez, MD",PSYCH,Psychiatry,VA,In-Network
+PRVDR-100220,"Dr. William Garcia, MD",INT_MED,Internal Medicine,TX,Out-of-Network
+PRVDR-100221,"Dr. Joseph Rodriguez, MD",PULM,Pulmonology,NY,Out-of-Network
+PRVDR-100222,"Dr. Jennifer Brown, MD",ORTHO,Orthopedics,MD,In-Network
+PRVDR-100223,"Dr. Patricia Wilson, MD",PEDS,Pediatrics,NY,Out-of-Network
+PRVDR-100224,"Dr. Jennifer Martin, MD",PULM,Pulmonology,FL,In-Network
+PRVDR-100225,"Dr. John Thomas, MD",NEURO,Neurology,VA,Out-of-Network
+PRVDR-100226,"Dr. Joseph Johnson, MD",INT_MED,Internal Medicine,NC,In-Network
+PRVDR-100227,"Dr. James Taylor, MD",PSYCH,Psychiatry,OH,In-Network
+PRVDR-100228,"Dr. William Taylor, MD",GEN_SURG,General Surgery,OH,In-Network
+PRVDR-100229,"Dr. Susan Davis, MD",NEURO,Neurology,FL,Out-of-Network
+PRVDR-100230,"Dr. John Moore, MD",PEDS,Pediatrics,MD,In-Network
+PRVDR-100231,"Dr. Jennifer Taylor, MD",NEURO,Neurology,NY,In-Network
+PRVDR-100232,"Dr. Robert Thomas, MD",ONC,Oncology,DC,In-Network
+PRVDR-100233,"Dr. David Johnson, MD",GEN_SURG,General Surgery,DC,Out-of-Network
+PRVDR-100234,"Dr. Richard Davis, MD",INT_MED,Internal Medicine,NY,Out-of-Network
+PRVDR-100235,"Dr. Charles Anderson, MD",INT_MED,Internal Medicine,NY,Out-of-Network
+PRVDR-100236,"Dr. William Brown, MD",NEURO,Neurology,MD,In-Network
+PRVDR-100237,"Dr. Richard Wilson, MD",CARD,Cardiology,CA,In-Network
+PRVDR-100238,"Dr. Robert Martin, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100239,"Dr. Joseph Hernandez, MD",ONC,Oncology,MD,In-Network
+PRVDR-100240,"Dr. Joseph Hernandez, MD",GEN_SURG,General Surgery,OH,Out-of-Network
+PRVDR-100241,"Dr. Barbara Anderson, MD",INT_MED,Internal Medicine,VA,In-Network
+PRVDR-100242,"Dr. James Hernandez, MD",ONC,Oncology,NC,In-Network
+PRVDR-100243,"Dr. Patricia Johnson, MD",ORTHO,Orthopedics,NY,In-Network
+PRVDR-100244,"Dr. Susan Brown, MD",RAD,Radiology,OH,In-Network
+PRVDR-100245,"Dr. Michael Brown, MD",PULM,Pulmonology,DC,Out-of-Network
+PRVDR-100246,"Dr. Michael Hernandez, MD",INT_MED,Internal Medicine,TX,In-Network
+PRVDR-100247,"Dr. Charles Brown, MD",NEURO,Neurology,NY,In-Network
+PRVDR-100248,"Dr. Jessica Smith, MD",GEN_SURG,General Surgery,MD,Out-of-Network
+PRVDR-100249,"Dr. Charles Thomas, MD",GEN_SURG,General Surgery,PA,In-Network
+PRVDR-100250,"Dr. John Brown, MD",PULM,Pulmonology,OH,In-Network
+PRVDR-100251,"Dr. Thomas Gonzalez, MD",PULM,Pulmonology,OH,In-Network
+PRVDR-100252,"Dr. David Gonzalez, MD",ONC,Oncology,NC,Out-of-Network
+PRVDR-100253,"Dr. John Jones, MD",PULM,Pulmonology,OH,In-Network
+PRVDR-100254,"Dr. Sarah Hernandez, MD",PSYCH,Psychiatry,CA,In-Network
+PRVDR-100255,"Dr. Michael Miller, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100256,"Dr. John Garcia, MD",GEN_SURG,General Surgery,CA,In-Network
+PRVDR-100257,"Dr. Patricia Lopez, MD",GEN_SURG,General Surgery,NY,Out-of-Network
+PRVDR-100258,"Dr. Sarah Martinez, MD",PULM,Pulmonology,MD,In-Network
+PRVDR-100259,"Dr. James Gonzalez, MD",ORTHO,Orthopedics,MD,In-Network
+PRVDR-100260,"Dr. Michael Rodriguez, MD",ORTHO,Orthopedics,NC,In-Network
+PRVDR-100261,"Dr. John Johnson, MD",PSYCH,Psychiatry,NC,In-Network
+PRVDR-100262,"Dr. Sarah Johnson, MD",ONC,Oncology,NY,In-Network
+PRVDR-100263,"Dr. Karen Moore, MD",DERM,Dermatology,CA,Out-of-Network
+PRVDR-100264,"Dr. Linda Taylor, MD",PSYCH,Psychiatry,NC,In-Network
+PRVDR-100265,"Dr. Richard Gonzalez, MD",PULM,Pulmonology,FL,In-Network
+PRVDR-100266,"Dr. James Rodriguez, MD",DERM,Dermatology,OH,Out-of-Network
+PRVDR-100267,"Dr. Linda Lopez, MD",PEDS,Pediatrics,CA,In-Network
+PRVDR-100268,"Dr. Michael Martinez, MD",NEURO,Neurology,PA,In-Network
+PRVDR-100269,"Dr. Jennifer Garcia, MD",PSYCH,Psychiatry,CA,In-Network
+PRVDR-100270,"Dr. Richard Johnson, MD",PULM,Pulmonology,NC,In-Network
+PRVDR-100271,"Dr. John Garcia, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100272,"Dr. William Anderson, MD",PSYCH,Psychiatry,PA,In-Network
+PRVDR-100273,"Dr. John Hernandez, MD",PEDS,Pediatrics,MD,In-Network
+PRVDR-100274,"Dr. Jessica Jackson, MD",GEN_SURG,General Surgery,FL,In-Network
+PRVDR-100275,"Dr. William Taylor, MD",DERM,Dermatology,PA,In-Network
+PRVDR-100276,"Dr. Thomas Garcia, MD",PULM,Pulmonology,CA,Out-of-Network
+PRVDR-100277,"Dr. Robert Lopez, MD",DERM,Dermatology,DC,In-Network
+PRVDR-100278,"Dr. William Lopez, MD",RAD,Radiology,DC,Out-of-Network
+PRVDR-100279,"Dr. Sarah Smith, MD",INT_MED,Internal Medicine,FL,Out-of-Network
+PRVDR-100280,"Dr. Linda Martin, MD",PEDS,Pediatrics,DC,In-Network
+PRVDR-100281,"Dr. William Gonzalez, MD",INT_MED,Internal Medicine,TX,In-Network
+PRVDR-100282,"Dr. Sarah Martinez, MD",CARD,Cardiology,CA,In-Network
+PRVDR-100283,"Dr. Thomas Taylor, MD",NEURO,Neurology,NY,In-Network
+PRVDR-100284,"Dr. Elizabeth Miller, MD",ONC,Oncology,CA,In-Network
+PRVDR-100285,"Dr. Patricia Garcia, MD",GEN_SURG,General Surgery,CA,In-Network
+PRVDR-100286,"Dr. Robert Miller, MD",EMERG,Emergency Medicine,DC,Out-of-Network
+PRVDR-100287,"Dr. Patricia Miller, MD",GEN_SURG,General Surgery,TX,In-Network
+PRVDR-100288,"Dr. John Smith, MD",NEURO,Neurology,FL,In-Network
+PRVDR-100289,"Dr. Robert Williams, MD",CARD,Cardiology,PA,In-Network
+PRVDR-100290,"Dr. Sarah Williams, MD",PEDS,Pediatrics,DC,In-Network
+PRVDR-100291,"Dr. Susan Gonzalez, MD",NEURO,Neurology,TX,Out-of-Network
+PRVDR-100292,"Dr. William Smith, MD",PULM,Pulmonology,VA,In-Network
+PRVDR-100293,"Dr. Karen Williams, MD",PSYCH,Psychiatry,OH,In-Network
+PRVDR-100294,"Dr. Robert Lopez, MD",GEN_SURG,General Surgery,VA,In-Network
+PRVDR-100295,"Dr. Elizabeth Martin, MD",INT_MED,Internal Medicine,NC,Out-of-Network
+PRVDR-100296,"Dr. Richard Gonzalez, MD",EMERG,Emergency Medicine,MD,Out-of-Network
+PRVDR-100297,"Dr. Jennifer Moore, MD",DERM,Dermatology,PA,Out-of-Network
+PRVDR-100298,"Dr. Sarah Martinez, MD",EMERG,Emergency Medicine,PA,In-Network
+PRVDR-100299,"Dr. Barbara Smith, MD",GEN_SURG,General Surgery,CA,In-Network
+PRVDR-100300,"Dr. Patricia Johnson, MD",CARD,Cardiology,OH,Out-of-Network
+PRVDR-100301,"Dr. Sarah Moore, MD",INT_MED,Internal Medicine,NC,In-Network
+PRVDR-100302,"Dr. Barbara Miller, MD",PULM,Pulmonology,CA,In-Network
+PRVDR-100303,"Dr. Jennifer Garcia, MD",DERM,Dermatology,OH,In-Network
+PRVDR-100304,"Dr. Michael Brown, MD",ORTHO,Orthopedics,OH,In-Network
+PRVDR-100305,"Dr. Sarah Anderson, MD",EMERG,Emergency Medicine,CA,In-Network
+PRVDR-100306,"Dr. Elizabeth Williams, MD",RAD,Radiology,VA,In-Network
+PRVDR-100307,"Dr. Charles Thomas, MD",ONC,Oncology,FL,In-Network
+PRVDR-100308,"Dr. Linda Brown, MD",RAD,Radiology,OH,In-Network
+PRVDR-100309,"Dr. Michael Hernandez, MD",NEURO,Neurology,NY,In-Network
+PRVDR-100310,"Dr. Karen Martinez, MD",PSYCH,Psychiatry,OH,In-Network
+PRVDR-100311,"Dr. Charles Jackson, MD",ONC,Oncology,FL,Out-of-Network
+PRVDR-100312,"Dr. Jennifer Smith, MD",ONC,Oncology,DC,In-Network
+PRVDR-100313,"Dr. Susan Rodriguez, MD",ONC,Oncology,PA,In-Network
+PRVDR-100314,"Dr. Jessica Anderson, MD",NEURO,Neurology,FL,In-Network
+PRVDR-100315,"Dr. Jessica Moore, MD",INT_MED,Internal Medicine,PA,In-Network
+PRVDR-100316,"Dr. David Jones, MD",GEN_SURG,General Surgery,DC,In-Network
+PRVDR-100317,"Dr. Robert Williams, MD",CARD,Cardiology,CA,In-Network
+PRVDR-100318,"Dr. Charles Jackson, MD",PULM,Pulmonology,OH,In-Network
+PRVDR-100319,"Dr. Mary Moore, MD",RAD,Radiology,CA,Out-of-Network
+PRVDR-100320,"Dr. John Lopez, MD",PULM,Pulmonology,DC,In-Network
+PRVDR-100321,"Dr. John Anderson, MD",GEN_SURG,General Surgery,CA,In-Network
+PRVDR-100322,"Dr. Richard Lopez, MD",GEN_SURG,General Surgery,MD,In-Network
+PRVDR-100323,"Dr. Karen Garcia, MD",GEN_SURG,General Surgery,PA,Out-of-Network
+PRVDR-100324,"Dr. Jennifer Garcia, MD",PEDS,Pediatrics,OH,In-Network
+PRVDR-100325,"Dr. Jessica Lopez, MD",CARD,Cardiology,DC,Out-of-Network
+PRVDR-100326,"Dr. Linda Williams, MD",RAD,Radiology,FL,In-Network
+PRVDR-100327,"Dr. Mary Miller, MD",GEN_SURG,General Surgery,FL,Out-of-Network
+PRVDR-100328,"Dr. Jessica Anderson, MD",CARD,Cardiology,MD,In-Network
+PRVDR-100329,"Dr. Patricia Taylor, MD",EMERG,Emergency Medicine,NC,In-Network
+PRVDR-100330,"Dr. Charles Moore, MD",PEDS,Pediatrics,PA,Out-of-Network
+PRVDR-100331,"Dr. Richard Lopez, MD",PEDS,Pediatrics,VA,In-Network
+PRVDR-100332,"Dr. Richard Davis, MD",GEN_SURG,General Surgery,TX,In-Network
+PRVDR-100333,"Dr. Barbara Thomas, MD",NEURO,Neurology,OH,In-Network
+PRVDR-100334,"Dr. Thomas Jones, MD",NEURO,Neurology,PA,In-Network
+PRVDR-100335,"Dr. Robert Taylor, MD",EMERG,Emergency Medicine,NC,In-Network
+PRVDR-100336,"Dr. John Garcia, MD",ORTHO,Orthopedics,FL,In-Network
+PRVDR-100337,"Dr. Linda Wilson, MD",ONC,Oncology,VA,Out-of-Network
+PRVDR-100338,"Dr. Jessica Thomas, MD",DERM,Dermatology,OH,In-Network
+PRVDR-100339,"Dr. Susan Smith, MD",DERM,Dermatology,MD,In-Network
+PRVDR-100340,"Dr. Charles Jackson, MD",ORTHO,Orthopedics,PA,In-Network
+PRVDR-100341,"Dr. Charles Jones, MD",CARD,Cardiology,PA,In-Network
+PRVDR-100342,"Dr. Jennifer Taylor, MD",PULM,Pulmonology,OH,In-Network
+PRVDR-100343,"Dr. Elizabeth Williams, MD",DERM,Dermatology,NY,Out-of-Network
+PRVDR-100344,"Dr. Jessica Garcia, MD",DERM,Dermatology,TX,In-Network
+PRVDR-100345,"Dr. Charles Garcia, MD",PEDS,Pediatrics,CA,In-Network
+PRVDR-100346,"Dr. Jennifer Hernandez, MD",NEURO,Neurology,OH,In-Network
+PRVDR-100347,"Dr. Linda Gonzalez, MD",PULM,Pulmonology,PA,In-Network
+PRVDR-100348,"Dr. James Miller, MD",GEN_SURG,General Surgery,CA,Out-of-Network
+PRVDR-100349,"Dr. John Martin, MD",INT_MED,Internal Medicine,PA,Out-of-Network
+PRVDR-100350,"Dr. Karen Martin, MD",CARD,Cardiology,CA,In-Network
+PRVDR-100351,"Dr. Robert Thomas, MD",EMERG,Emergency Medicine,PA,In-Network
+PRVDR-100352,"Dr. Susan Taylor, MD",PULM,Pulmonology,FL,In-Network
+PRVDR-100353,"Dr. Thomas Wilson, MD",DERM,Dermatology,NY,Out-of-Network
+PRVDR-100354,"Dr. Barbara Jackson, MD",PSYCH,Psychiatry,OH,In-Network
+PRVDR-100355,"Dr. Susan Jones, MD",RAD,Radiology,NY,In-Network
+PRVDR-100356,"Dr. Robert Martinez, MD",PEDS,Pediatrics,CA,Out-of-Network
+PRVDR-100357,"Dr. David Miller, MD",CARD,Cardiology,MD,In-Network
+PRVDR-100358,"Dr. Thomas Smith, MD",PULM,Pulmonology,DC,In-Network
+PRVDR-100359,"Dr. Susan Lopez, MD",INT_MED,Internal Medicine,PA,Out-of-Network
+PRVDR-100360,"Dr. Charles Rodriguez, MD",RAD,Radiology,CA,Out-of-Network
+PRVDR-100361,"Dr. Charles Lopez, MD",PEDS,Pediatrics,NC,Out-of-Network
+PRVDR-100362,"Dr. Michael Wilson, MD",GEN_SURG,General Surgery,CA,Out-of-Network
+PRVDR-100363,"Dr. Jennifer Lopez, MD",GEN_SURG,General Surgery,CA,Out-of-Network
+PRVDR-100364,"Dr. David Martinez, MD",PEDS,Pediatrics,FL,Out-of-Network
+PRVDR-100365,"Dr. John Brown, MD",PSYCH,Psychiatry,DC,Out-of-Network
+PRVDR-100366,"Dr. Jennifer Brown, MD",DERM,Dermatology,CA,Out-of-Network
+PRVDR-100367,"Dr. William Moore, MD",PEDS,Pediatrics,MD,In-Network
+PRVDR-100368,"Dr. Richard Smith, MD",INT_MED,Internal Medicine,PA,Out-of-Network
+PRVDR-100369,"Dr. Karen Wilson, MD",INT_MED,Internal Medicine,VA,In-Network
+PRVDR-100370,"Dr. Linda Lopez, MD",INT_MED,Internal Medicine,OH,In-Network
+PRVDR-100371,"Dr. Richard Gonzalez, MD",PEDS,Pediatrics,CA,In-Network
+PRVDR-100372,"Dr. Karen Johnson, MD",ORTHO,Orthopedics,NY,Out-of-Network
+PRVDR-100373,"Dr. James Miller, MD",EMERG,Emergency Medicine,CA,In-Network
+PRVDR-100374,"Dr. Michael Johnson, MD",PEDS,Pediatrics,CA,In-Network
+PRVDR-100375,"Dr. Karen Garcia, MD",EMERG,Emergency Medicine,MD,In-Network
+PRVDR-100376,"Dr. Linda Smith, MD",ORTHO,Orthopedics,VA,In-Network
+PRVDR-100377,"Dr. Richard Lopez, MD",EMERG,Emergency Medicine,TX,Out-of-Network
+PRVDR-100378,"Dr. Charles Miller, MD",GEN_SURG,General Surgery,MD,In-Network
+PRVDR-100379,"Dr. Robert Moore, MD",RAD,Radiology,CA,In-Network
+PRVDR-100380,"Dr. Barbara Rodriguez, MD",DERM,Dermatology,OH,In-Network
+PRVDR-100381,"Dr. Joseph Gonzalez, MD",PEDS,Pediatrics,MD,In-Network
+PRVDR-100382,"Dr. Jennifer Wilson, MD",GEN_SURG,General Surgery,VA,In-Network
+PRVDR-100383,"Dr. Thomas Martinez, MD",ONC,Oncology,VA,In-Network
+PRVDR-100384,"Dr. Sarah Jackson, MD",RAD,Radiology,NY,Out-of-Network
+PRVDR-100385,"Dr. Charles Thomas, MD",DERM,Dermatology,FL,Out-of-Network
+PRVDR-100386,"Dr. Joseph Jackson, MD",CARD,Cardiology,NY,In-Network
+PRVDR-100387,"Dr. David Williams, MD",PULM,Pulmonology,DC,In-Network
+PRVDR-100388,"Dr. William Wilson, MD",ONC,Oncology,CA,In-Network
+PRVDR-100389,"Dr. David Davis, MD",RAD,Radiology,VA,Out-of-Network
+PRVDR-100390,"Dr. William Williams, MD",GEN_SURG,General Surgery,PA,Out-of-Network
+PRVDR-100391,"Dr. William Lopez, MD",DERM,Dermatology,OH,In-Network
+PRVDR-100392,"Dr. Jennifer Miller, MD",NEURO,Neurology,DC,In-Network
+PRVDR-100393,"Dr. Linda Rodriguez, MD",DERM,Dermatology,DC,In-Network
+PRVDR-100394,"Dr. Linda Martin, MD",ONC,Oncology,PA,In-Network
+PRVDR-100395,"Dr. Patricia Williams, MD",EMERG,Emergency Medicine,NY,In-Network
+PRVDR-100396,"Dr. Sarah Johnson, MD",NEURO,Neurology,FL,In-Network
+PRVDR-100397,"Dr. Jessica Jackson, MD",RAD,Radiology,NY,In-Network
+PRVDR-100398,"Dr. Thomas Rodriguez, MD",PULM,Pulmonology,DC,In-Network
+PRVDR-100399,"Dr. Mary Taylor, MD",PULM,Pulmonology,NY,In-Network
+PRVDR-100400,"Dr. Thomas Lopez, MD",PULM,Pulmonology,PA,Out-of-Network
+PRVDR-100401,"Dr. Patricia Taylor, MD",NEURO,Neurology,FL,In-Network
+PRVDR-100402,"Dr. James Miller, MD",PULM,Pulmonology,OH,In-Network
+PRVDR-100403,"Dr. William Lopez, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100404,"Dr. Sarah Rodriguez, MD",DERM,Dermatology,NC,Out-of-Network
+PRVDR-100405,"Dr. Karen Hernandez, MD",ONC,Oncology,PA,Out-of-Network
+PRVDR-100406,"Dr. Susan Miller, MD",PULM,Pulmonology,FL,In-Network
+PRVDR-100407,"Dr. Richard Rodriguez, MD",NEURO,Neurology,PA,In-Network
+PRVDR-100408,"Dr. Charles Davis, MD",INT_MED,Internal Medicine,NC,In-Network
+PRVDR-100409,"Dr. Sarah Wilson, MD",PULM,Pulmonology,DC,In-Network
+PRVDR-100410,"Dr. John Thomas, MD",CARD,Cardiology,PA,Out-of-Network
+PRVDR-100411,"Dr. Jessica Jones, MD",EMERG,Emergency Medicine,CA,In-Network
+PRVDR-100412,"Dr. Jessica Martinez, MD",RAD,Radiology,CA,In-Network
+PRVDR-100413,"Dr. Richard Brown, MD",PSYCH,Psychiatry,PA,In-Network
+PRVDR-100414,"Dr. Michael Rodriguez, MD",NEURO,Neurology,VA,Out-of-Network
+PRVDR-100415,"Dr. William Rodriguez, MD",ONC,Oncology,FL,In-Network
+PRVDR-100416,"Dr. Barbara Smith, MD",PULM,Pulmonology,VA,In-Network
+PRVDR-100417,"Dr. Karen Miller, MD",PEDS,Pediatrics,OH,In-Network
+PRVDR-100418,"Dr. Elizabeth Lopez, MD",ONC,Oncology,CA,Out-of-Network
+PRVDR-100419,"Dr. Joseph Williams, MD",PULM,Pulmonology,OH,In-Network
+PRVDR-100420,"Dr. Joseph Jones, MD",ORTHO,Orthopedics,FL,Out-of-Network
+PRVDR-100421,"Dr. Karen Jackson, MD",PULM,Pulmonology,VA,In-Network
+PRVDR-100422,"Dr. Jennifer Hernandez, MD",DERM,Dermatology,FL,In-Network
+PRVDR-100423,"Dr. Elizabeth Rodriguez, MD",PEDS,Pediatrics,TX,In-Network
+PRVDR-100424,"Dr. Joseph Lopez, MD",PSYCH,Psychiatry,OH,Out-of-Network
+PRVDR-100425,"Dr. Susan Garcia, MD",ORTHO,Orthopedics,MD,In-Network
+PRVDR-100426,"Dr. Linda Rodriguez, MD",PSYCH,Psychiatry,VA,In-Network
+PRVDR-100427,"Dr. Jennifer Gonzalez, MD",INT_MED,Internal Medicine,VA,In-Network
+PRVDR-100428,"Dr. Jessica Moore, MD",CARD,Cardiology,MD,Out-of-Network
+PRVDR-100429,"Dr. Thomas Williams, MD",INT_MED,Internal Medicine,NC,In-Network
+PRVDR-100430,"Dr. Robert Gonzalez, MD",RAD,Radiology,DC,In-Network
+PRVDR-100431,"Dr. Elizabeth Anderson, MD",EMERG,Emergency Medicine,PA,In-Network
+PRVDR-100432,"Dr. Thomas Garcia, MD",CARD,Cardiology,MD,In-Network
+PRVDR-100433,"Dr. William Thomas, MD",NEURO,Neurology,CA,In-Network
+PRVDR-100434,"Dr. Sarah Anderson, MD",ORTHO,Orthopedics,CA,In-Network
+PRVDR-100435,"Dr. Charles Martin, MD",NEURO,Neurology,OH,Out-of-Network
+PRVDR-100436,"Dr. Thomas Moore, MD",RAD,Radiology,FL,Out-of-Network
+PRVDR-100437,"Dr. Sarah Davis, MD",INT_MED,Internal Medicine,NY,In-Network
+PRVDR-100438,"Dr. Barbara Wilson, MD",RAD,Radiology,PA,In-Network
+PRVDR-100439,"Dr. James Smith, MD",GEN_SURG,General Surgery,PA,In-Network
+PRVDR-100440,"Dr. Elizabeth Thomas, MD",GEN_SURG,General Surgery,MD,Out-of-Network
+PRVDR-100441,"Dr. Jessica Martinez, MD",CARD,Cardiology,TX,In-Network
+PRVDR-100442,"Dr. Karen Davis, MD",CARD,Cardiology,CA,In-Network
+PRVDR-100443,"Dr. Michael Wilson, MD",GEN_SURG,General Surgery,TX,Out-of-Network
+PRVDR-100444,"Dr. Linda Garcia, MD",PSYCH,Psychiatry,TX,Out-of-Network
+PRVDR-100445,"Dr. Linda Rodriguez, MD",INT_MED,Internal Medicine,TX,In-Network
+PRVDR-100446,"Dr. Thomas Martin, MD",PSYCH,Psychiatry,NC,In-Network
+PRVDR-100447,"Dr. Sarah Rodriguez, MD",PULM,Pulmonology,DC,In-Network
+PRVDR-100448,"Dr. Jennifer Jones, MD",RAD,Radiology,VA,Out-of-Network
+PRVDR-100449,"Dr. Karen Anderson, MD",RAD,Radiology,OH,Out-of-Network
+PRVDR-100450,"Dr. Michael Hernandez, MD",CARD,Cardiology,PA,In-Network
+PRVDR-100451,"Dr. Sarah Smith, MD",ORTHO,Orthopedics,VA,In-Network
+PRVDR-100452,"Dr. David Jones, MD",PSYCH,Psychiatry,NY,In-Network
+PRVDR-100453,"Dr. Linda Williams, MD",ORTHO,Orthopedics,MD,Out-of-Network
+PRVDR-100454,"Dr. Michael Hernandez, MD",PULM,Pulmonology,NC,Out-of-Network
+PRVDR-100455,"Dr. Barbara Anderson, MD",PSYCH,Psychiatry,MD,In-Network
+PRVDR-100456,"Dr. Robert Jones, MD",CARD,Cardiology,NC,Out-of-Network
+PRVDR-100457,"Dr. Robert Moore, MD",NEURO,Neurology,PA,In-Network
+PRVDR-100458,"Dr. David Gonzalez, MD",CARD,Cardiology,VA,In-Network
+PRVDR-100459,"Dr. Richard Anderson, MD",DERM,Dermatology,MD,In-Network
+PRVDR-100460,"Dr. Joseph Brown, MD",GEN_SURG,General Surgery,DC,Out-of-Network
+PRVDR-100461,"Dr. Richard Martinez, MD",ONC,Oncology,PA,In-Network
+PRVDR-100462,"Dr. Sarah Taylor, MD",INT_MED,Internal Medicine,NC,Out-of-Network
+PRVDR-100463,"Dr. Elizabeth Miller, MD",ONC,Oncology,MD,In-Network
+PRVDR-100464,"Dr. Patricia Davis, MD",EMERG,Emergency Medicine,TX,In-Network
+PRVDR-100465,"Dr. James Garcia, MD",RAD,Radiology,OH,In-Network
+PRVDR-100466,"Dr. Richard Davis, MD",CARD,Cardiology,MD,Out-of-Network
+PRVDR-100467,"Dr. Karen Jones, MD",ONC,Oncology,VA,In-Network
+PRVDR-100468,"Dr. Jennifer Thomas, MD",INT_MED,Internal Medicine,OH,In-Network
+PRVDR-100469,"Dr. Mary Johnson, MD",ONC,Oncology,PA,In-Network
+PRVDR-100470,"Dr. John Thomas, MD",DERM,Dermatology,FL,In-Network
+PRVDR-100471,"Dr. Joseph Miller, MD",CARD,Cardiology,TX,In-Network
+PRVDR-100472,"Dr. John Rodriguez, MD",CARD,Cardiology,NY,Out-of-Network
+PRVDR-100473,"Dr. Sarah Martinez, MD",GEN_SURG,General Surgery,NY,In-Network
+PRVDR-100474,"Dr. Charles Garcia, MD",GEN_SURG,General Surgery,FL,In-Network
+PRVDR-100475,"Dr. Joseph Rodriguez, MD",PEDS,Pediatrics,CA,In-Network
+PRVDR-100476,"Dr. Robert Taylor, MD",ORTHO,Orthopedics,NY,In-Network
+PRVDR-100477,"Dr. David Moore, MD",ONC,Oncology,NY,In-Network
+PRVDR-100478,"Dr. Thomas Gonzalez, MD",PSYCH,Psychiatry,PA,In-Network
+PRVDR-100479,"Dr. Karen Lopez, MD",PEDS,Pediatrics,DC,In-Network
+PRVDR-100480,"Dr. Robert Moore, MD",PULM,Pulmonology,DC,Out-of-Network
+PRVDR-100481,"Dr. Sarah Jones, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100482,"Dr. Susan Hernandez, MD",INT_MED,Internal Medicine,VA,In-Network
+PRVDR-100483,"Dr. Mary Jones, MD",ORTHO,Orthopedics,MD,In-Network
+PRVDR-100484,"Dr. Patricia Thomas, MD",DERM,Dermatology,VA,In-Network
+PRVDR-100485,"Dr. Charles Gonzalez, MD",EMERG,Emergency Medicine,NY,In-Network
+PRVDR-100486,"Dr. Mary Lopez, MD",DERM,Dermatology,OH,In-Network
+PRVDR-100487,"Dr. James Miller, MD",EMERG,Emergency Medicine,NY,In-Network
+PRVDR-100488,"Dr. Joseph Johnson, MD",ONC,Oncology,CA,Out-of-Network
+PRVDR-100489,"Dr. Barbara Johnson, MD",PEDS,Pediatrics,NC,In-Network
+PRVDR-100490,"Dr. Robert Martinez, MD",INT_MED,Internal Medicine,DC,In-Network
+PRVDR-100491,"Dr. Patricia Davis, MD",GEN_SURG,General Surgery,TX,In-Network
+PRVDR-100492,"Dr. Michael Taylor, MD",EMERG,Emergency Medicine,DC,In-Network
+PRVDR-100493,"Dr. Sarah Moore, MD",PULM,Pulmonology,VA,In-Network
+PRVDR-100494,"Dr. Joseph Wilson, MD",INT_MED,Internal Medicine,PA,In-Network
+PRVDR-100495,"Dr. Sarah Gonzalez, MD",GEN_SURG,General Surgery,FL,In-Network
+PRVDR-100496,"Dr. Sarah Martin, MD",NEURO,Neurology,FL,In-Network
+PRVDR-100497,"Dr. Sarah Hernandez, MD",ONC,Oncology,TX,Out-of-Network
+PRVDR-100498,"Dr. William Martin, MD",DERM,Dermatology,OH,In-Network
+PRVDR-100499,"Dr. Richard Moore, MD",PSYCH,Psychiatry,NC,In-Network

@@ -1,0 +1,501 @@
+DGNS_CD,DESCRIPTION,CHRONIC_CATEGORY,RISK_TIER,ANNUAL_BENCHMARK_COST
+I10,Essential (primary) hypertension,Cardiovascular,Medium,3726
+E11.9,Type 2 diabetes mellitus without complications,Metabolic,Medium,4616
+E11.65,Type 2 diabetes mellitus with hyperglycemia,Metabolic,High,8213
+M17.11,"Unilateral primary osteoarthritis, right knee",Musculoskeletal,Medium,5000
+M17.12,"Unilateral primary osteoarthritis, left knee",Musculoskeletal,Medium,5070
+J44.9,"Chronic obstructive pulmonary disease, unspecified",Respiratory,High,9082
+I50.9,"Heart failure, unspecified",Cardiovascular,Critical,14133
+I25.10,Atherosclerotic heart disease of native coronary artery,Cardiovascular,High,11860
+C50.911,Malignant neoplasm of unspecified site of right female breast,Oncology,Critical,27876
+C34.90,Malignant neoplasm of unspecified part of bronchus or lung,Oncology,Critical,35218
+F32.9,"Major depressive disorder, single episode, unspecified",Mental Health,Medium,3413
+F41.1,Generalized anxiety disorder,Mental Health,Low,2315
+N18.3,"Chronic kidney disease, stage 3 (moderate)",Renal,High,9554
+N18.4,"Chronic kidney disease, stage 4 (severe)",Renal,Critical,18239
+G30.9,"Alzheimer disease, unspecified",Neurological,High,13644
+G43.909,"Migraine, unspecified, not intractable",Neurological,Low,1444
+R07.9,"Chest pain, unspecified",Cardiovascular,Medium,4365
+L30.9,"Dermatitis, unspecified",Dermatology,Low,1933
+K21.9,Gastro-esophageal reflux disease without esophagitis,Digestive,Low,2247
+M54.5,Low back pain,Musculoskeletal,Medium,3839
+I10.01,Essential (primary) hypertension (Subtype 21),Cardiovascular,Medium,3968
+E11.9.01,Type 2 diabetes mellitus without complications (Subtype 22),Metabolic,Medium,4870
+E11.65.01,Type 2 diabetes mellitus with hyperglycemia (Subtype 23),Metabolic,High,7716
+M17.11.01,"Unilateral primary osteoarthritis, right knee (Subtype 24)",Musculoskeletal,Medium,5193
+M17.12.01,"Unilateral primary osteoarthritis, left knee (Subtype 25)",Musculoskeletal,Medium,5077
+J44.9.01,"Chronic obstructive pulmonary disease, unspecified (Subtype 26)",Respiratory,High,9442
+I50.9.01,"Heart failure, unspecified (Subtype 27)",Cardiovascular,Critical,14828
+I25.10.01,Atherosclerotic heart disease of native coronary artery (Subtype 28),Cardiovascular,High,11119
+C50.911.01,Malignant neoplasm of unspecified site of right female breast (Subtype 29),Oncology,Critical,27883
+C34.90.01,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 30),Oncology,Critical,35142
+F32.9.01,"Major depressive disorder, single episode, unspecified (Subtype 31)",Mental Health,Medium,4151
+F41.1.01,Generalized anxiety disorder (Subtype 32),Mental Health,Low,2892
+N18.3.01,"Chronic kidney disease, stage 3 (moderate) (Subtype 33)",Renal,High,9611
+N18.4.01,"Chronic kidney disease, stage 4 (severe) (Subtype 34)",Renal,Critical,18277
+G30.9.01,"Alzheimer disease, unspecified (Subtype 35)",Neurological,High,13524
+G43.909.01,"Migraine, unspecified, not intractable (Subtype 36)",Neurological,Low,2015
+R07.9.01,"Chest pain, unspecified (Subtype 37)",Cardiovascular,Medium,3988
+L30.9.01,"Dermatitis, unspecified (Subtype 38)",Dermatology,Low,1968
+K21.9.01,Gastro-esophageal reflux disease without esophagitis (Subtype 39),Digestive,Low,2018
+M54.5.01,Low back pain (Subtype 40),Musculoskeletal,Medium,3865
+I10.02,Essential (primary) hypertension (Subtype 41),Cardiovascular,Medium,3245
+E11.9.02,Type 2 diabetes mellitus without complications (Subtype 42),Metabolic,Medium,3858
+E11.65.02,Type 2 diabetes mellitus with hyperglycemia (Subtype 43),Metabolic,High,8064
+M17.11.02,"Unilateral primary osteoarthritis, right knee (Subtype 44)",Musculoskeletal,Medium,5988
+M17.12.02,"Unilateral primary osteoarthritis, left knee (Subtype 45)",Musculoskeletal,Medium,5354
+J44.9.02,"Chronic obstructive pulmonary disease, unspecified (Subtype 46)",Respiratory,High,9499
+I50.9.02,"Heart failure, unspecified (Subtype 47)",Cardiovascular,Critical,15280
+I25.10.02,Atherosclerotic heart disease of native coronary artery (Subtype 48),Cardiovascular,High,10995
+C50.911.02,Malignant neoplasm of unspecified site of right female breast (Subtype 49),Oncology,Critical,28215
+C34.90.02,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 50),Oncology,Critical,34676
+F32.9.02,"Major depressive disorder, single episode, unspecified (Subtype 51)",Mental Health,Medium,4580
+F41.1.02,Generalized anxiety disorder (Subtype 52),Mental Health,Low,2481
+N18.3.02,"Chronic kidney disease, stage 3 (moderate) (Subtype 53)",Renal,High,9260
+N18.4.02,"Chronic kidney disease, stage 4 (severe) (Subtype 54)",Renal,Critical,17914
+G30.9.02,"Alzheimer disease, unspecified (Subtype 55)",Neurological,High,13684
+G43.909.02,"Migraine, unspecified, not intractable (Subtype 56)",Neurological,Low,2112
+R07.9.02,"Chest pain, unspecified (Subtype 57)",Cardiovascular,Medium,4689
+L30.9.02,"Dermatitis, unspecified (Subtype 58)",Dermatology,Low,1653
+K21.9.02,Gastro-esophageal reflux disease without esophagitis (Subtype 59),Digestive,Low,1446
+M54.5.02,Low back pain (Subtype 60),Musculoskeletal,Medium,3164
+I10.03,Essential (primary) hypertension (Subtype 61),Cardiovascular,Medium,2823
+E11.9.03,Type 2 diabetes mellitus without complications (Subtype 62),Metabolic,Medium,4483
+E11.65.03,Type 2 diabetes mellitus with hyperglycemia (Subtype 63),Metabolic,High,7510
+M17.11.03,"Unilateral primary osteoarthritis, right knee (Subtype 64)",Musculoskeletal,Medium,5624
+M17.12.03,"Unilateral primary osteoarthritis, left knee (Subtype 65)",Musculoskeletal,Medium,6073
+J44.9.03,"Chronic obstructive pulmonary disease, unspecified (Subtype 66)",Respiratory,High,8584
+I50.9.03,"Heart failure, unspecified (Subtype 67)",Cardiovascular,Critical,14753
+I25.10.03,Atherosclerotic heart disease of native coronary artery (Subtype 68),Cardiovascular,High,11905
+C50.911.03,Malignant neoplasm of unspecified site of right female breast (Subtype 69),Oncology,Critical,28756
+C34.90.03,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 70),Oncology,Critical,34906
+F32.9.03,"Major depressive disorder, single episode, unspecified (Subtype 71)",Mental Health,Medium,4069
+F41.1.03,Generalized anxiety disorder (Subtype 72),Mental Health,Low,2728
+N18.3.03,"Chronic kidney disease, stage 3 (moderate) (Subtype 73)",Renal,High,9552
+N18.4.03,"Chronic kidney disease, stage 4 (severe) (Subtype 74)",Renal,Critical,18113
+G30.9.03,"Alzheimer disease, unspecified (Subtype 75)",Neurological,High,13103
+G43.909.03,"Migraine, unspecified, not intractable (Subtype 76)",Neurological,Low,2204
+R07.9.03,"Chest pain, unspecified (Subtype 77)",Cardiovascular,Medium,4712
+L30.9.03,"Dermatitis, unspecified (Subtype 78)",Dermatology,Low,1978
+K21.9.03,Gastro-esophageal reflux disease without esophagitis (Subtype 79),Digestive,Low,2233
+M54.5.03,Low back pain (Subtype 80),Musculoskeletal,Medium,2884
+I10.04,Essential (primary) hypertension (Subtype 81),Cardiovascular,Medium,3254
+E11.9.04,Type 2 diabetes mellitus without complications (Subtype 82),Metabolic,Medium,4584
+E11.65.04,Type 2 diabetes mellitus with hyperglycemia (Subtype 83),Metabolic,High,7993
+M17.11.04,"Unilateral primary osteoarthritis, right knee (Subtype 84)",Musculoskeletal,Medium,5807
+M17.12.04,"Unilateral primary osteoarthritis, left knee (Subtype 85)",Musculoskeletal,Medium,5303
+J44.9.04,"Chronic obstructive pulmonary disease, unspecified (Subtype 86)",Respiratory,High,8770
+I50.9.04,"Heart failure, unspecified (Subtype 87)",Cardiovascular,Critical,14788
+I25.10.04,Atherosclerotic heart disease of native coronary artery (Subtype 88),Cardiovascular,High,10969
+C50.911.04,Malignant neoplasm of unspecified site of right female breast (Subtype 89),Oncology,Critical,28574
+C34.90.04,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 90),Oncology,Critical,35770
+F32.9.04,"Major depressive disorder, single episode, unspecified (Subtype 91)",Mental Health,Medium,3500
+F41.1.04,Generalized anxiety disorder (Subtype 92),Mental Health,Low,2822
+N18.3.04,"Chronic kidney disease, stage 3 (moderate) (Subtype 93)",Renal,High,9917
+N18.4.04,"Chronic kidney disease, stage 4 (severe) (Subtype 94)",Renal,Critical,18337
+G30.9.04,"Alzheimer disease, unspecified (Subtype 95)",Neurological,High,13174
+G43.909.04,"Migraine, unspecified, not intractable (Subtype 96)",Neurological,Low,2216
+R07.9.04,"Chest pain, unspecified (Subtype 97)",Cardiovascular,Medium,4827
+L30.9.04,"Dermatitis, unspecified (Subtype 98)",Dermatology,Low,1689
+K21.9.04,Gastro-esophageal reflux disease without esophagitis (Subtype 99),Digestive,Low,1467
+M54.5.04,Low back pain (Subtype 100),Musculoskeletal,Medium,2976
+I10.05,Essential (primary) hypertension (Subtype 101),Cardiovascular,Medium,3784
+E11.9.05,Type 2 diabetes mellitus without complications (Subtype 102),Metabolic,Medium,4845
+E11.65.05,Type 2 diabetes mellitus with hyperglycemia (Subtype 103),Metabolic,High,7805
+M17.11.05,"Unilateral primary osteoarthritis, right knee (Subtype 104)",Musculoskeletal,Medium,5999
+M17.12.05,"Unilateral primary osteoarthritis, left knee (Subtype 105)",Musculoskeletal,Medium,5809
+J44.9.05,"Chronic obstructive pulmonary disease, unspecified (Subtype 106)",Respiratory,High,9670
+I50.9.05,"Heart failure, unspecified (Subtype 107)",Cardiovascular,Critical,14501
+I25.10.05,Atherosclerotic heart disease of native coronary artery (Subtype 108),Cardiovascular,High,11949
+C50.911.05,Malignant neoplasm of unspecified site of right female breast (Subtype 109),Oncology,Critical,28673
+C34.90.05,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 110),Oncology,Critical,35104
+F32.9.05,"Major depressive disorder, single episode, unspecified (Subtype 111)",Mental Health,Medium,3896
+F41.1.05,Generalized anxiety disorder (Subtype 112),Mental Health,Low,1846
+N18.3.05,"Chronic kidney disease, stage 3 (moderate) (Subtype 113)",Renal,High,9645
+N18.4.05,"Chronic kidney disease, stage 4 (severe) (Subtype 114)",Renal,Critical,18680
+G30.9.05,"Alzheimer disease, unspecified (Subtype 115)",Neurological,High,13662
+G43.909.05,"Migraine, unspecified, not intractable (Subtype 116)",Neurological,Low,2579
+R07.9.05,"Chest pain, unspecified (Subtype 117)",Cardiovascular,Medium,3983
+L30.9.05,"Dermatitis, unspecified (Subtype 118)",Dermatology,Low,1030
+K21.9.05,Gastro-esophageal reflux disease without esophagitis (Subtype 119),Digestive,Low,2047
+M54.5.05,Low back pain (Subtype 120),Musculoskeletal,Medium,3567
+I10.06,Essential (primary) hypertension (Subtype 121),Cardiovascular,Medium,3548
+E11.9.06,Type 2 diabetes mellitus without complications (Subtype 122),Metabolic,Medium,4413
+E11.65.06,Type 2 diabetes mellitus with hyperglycemia (Subtype 123),Metabolic,High,7790
+M17.11.06,"Unilateral primary osteoarthritis, right knee (Subtype 124)",Musculoskeletal,Medium,5656
+M17.12.06,"Unilateral primary osteoarthritis, left knee (Subtype 125)",Musculoskeletal,Medium,5705
+J44.9.06,"Chronic obstructive pulmonary disease, unspecified (Subtype 126)",Respiratory,High,8549
+I50.9.06,"Heart failure, unspecified (Subtype 127)",Cardiovascular,Critical,14724
+I25.10.06,Atherosclerotic heart disease of native coronary artery (Subtype 128),Cardiovascular,High,11146
+C50.911.06,Malignant neoplasm of unspecified site of right female breast (Subtype 129),Oncology,Critical,28316
+C34.90.06,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 130),Oncology,Critical,35505
+F32.9.06,"Major depressive disorder, single episode, unspecified (Subtype 131)",Mental Health,Medium,3698
+F41.1.06,Generalized anxiety disorder (Subtype 132),Mental Health,Low,2602
+N18.3.06,"Chronic kidney disease, stage 3 (moderate) (Subtype 133)",Renal,High,9191
+N18.4.06,"Chronic kidney disease, stage 4 (severe) (Subtype 134)",Renal,Critical,18278
+G30.9.06,"Alzheimer disease, unspecified (Subtype 135)",Neurological,High,13408
+G43.909.06,"Migraine, unspecified, not intractable (Subtype 136)",Neurological,Low,2165
+R07.9.06,"Chest pain, unspecified (Subtype 137)",Cardiovascular,Medium,4119
+L30.9.06,"Dermatitis, unspecified (Subtype 138)",Dermatology,Low,975
+K21.9.06,Gastro-esophageal reflux disease without esophagitis (Subtype 139),Digestive,Low,1430
+M54.5.06,Low back pain (Subtype 140),Musculoskeletal,Medium,2811
+I10.07,Essential (primary) hypertension (Subtype 141),Cardiovascular,Medium,3297
+E11.9.07,Type 2 diabetes mellitus without complications (Subtype 142),Metabolic,Medium,4002
+E11.65.07,Type 2 diabetes mellitus with hyperglycemia (Subtype 143),Metabolic,High,7989
+M17.11.07,"Unilateral primary osteoarthritis, right knee (Subtype 144)",Musculoskeletal,Medium,5028
+M17.12.07,"Unilateral primary osteoarthritis, left knee (Subtype 145)",Musculoskeletal,Medium,5703
+J44.9.07,"Chronic obstructive pulmonary disease, unspecified (Subtype 146)",Respiratory,High,8727
+I50.9.07,"Heart failure, unspecified (Subtype 147)",Cardiovascular,Critical,14724
+I25.10.07,Atherosclerotic heart disease of native coronary artery (Subtype 148),Cardiovascular,High,11721
+C50.911.07,Malignant neoplasm of unspecified site of right female breast (Subtype 149),Oncology,Critical,28564
+C34.90.07,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 150),Oncology,Critical,34646
+F32.9.07,"Major depressive disorder, single episode, unspecified (Subtype 151)",Mental Health,Medium,4079
+F41.1.07,Generalized anxiety disorder (Subtype 152),Mental Health,Low,2128
+N18.3.07,"Chronic kidney disease, stage 3 (moderate) (Subtype 153)",Renal,High,10201
+N18.4.07,"Chronic kidney disease, stage 4 (severe) (Subtype 154)",Renal,Critical,18233
+G30.9.07,"Alzheimer disease, unspecified (Subtype 155)",Neurological,High,13417
+G43.909.07,"Migraine, unspecified, not intractable (Subtype 156)",Neurological,Low,2519
+R07.9.07,"Chest pain, unspecified (Subtype 157)",Cardiovascular,Medium,4871
+L30.9.07,"Dermatitis, unspecified (Subtype 158)",Dermatology,Low,1329
+K21.9.07,Gastro-esophageal reflux disease without esophagitis (Subtype 159),Digestive,Low,2323
+M54.5.07,Low back pain (Subtype 160),Musculoskeletal,Medium,3689
+I10.08,Essential (primary) hypertension (Subtype 161),Cardiovascular,Medium,3089
+E11.9.08,Type 2 diabetes mellitus without complications (Subtype 162),Metabolic,Medium,3737
+E11.65.08,Type 2 diabetes mellitus with hyperglycemia (Subtype 163),Metabolic,High,8171
+M17.11.08,"Unilateral primary osteoarthritis, right knee (Subtype 164)",Musculoskeletal,Medium,6193
+M17.12.08,"Unilateral primary osteoarthritis, left knee (Subtype 165)",Musculoskeletal,Medium,6078
+J44.9.08,"Chronic obstructive pulmonary disease, unspecified (Subtype 166)",Respiratory,High,8589
+I50.9.08,"Heart failure, unspecified (Subtype 167)",Cardiovascular,Critical,14623
+I25.10.08,Atherosclerotic heart disease of native coronary artery (Subtype 168),Cardiovascular,High,11148
+C50.911.08,Malignant neoplasm of unspecified site of right female breast (Subtype 169),Oncology,Critical,27723
+C34.90.08,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 170),Oncology,Critical,35181
+F32.9.08,"Major depressive disorder, single episode, unspecified (Subtype 171)",Mental Health,Medium,3811
+F41.1.08,Generalized anxiety disorder (Subtype 172),Mental Health,Low,2255
+N18.3.08,"Chronic kidney disease, stage 3 (moderate) (Subtype 173)",Renal,High,9208
+N18.4.08,"Chronic kidney disease, stage 4 (severe) (Subtype 174)",Renal,Critical,18752
+G30.9.08,"Alzheimer disease, unspecified (Subtype 175)",Neurological,High,13017
+G43.909.08,"Migraine, unspecified, not intractable (Subtype 176)",Neurological,Low,1536
+R07.9.08,"Chest pain, unspecified (Subtype 177)",Cardiovascular,Medium,4595
+L30.9.08,"Dermatitis, unspecified (Subtype 178)",Dermatology,Low,1355
+K21.9.08,Gastro-esophageal reflux disease without esophagitis (Subtype 179),Digestive,Low,1937
+M54.5.08,Low back pain (Subtype 180),Musculoskeletal,Medium,2920
+I10.09,Essential (primary) hypertension (Subtype 181),Cardiovascular,Medium,2839
+E11.9.09,Type 2 diabetes mellitus without complications (Subtype 182),Metabolic,Medium,4299
+E11.65.09,Type 2 diabetes mellitus with hyperglycemia (Subtype 183),Metabolic,High,8191
+M17.11.09,"Unilateral primary osteoarthritis, right knee (Subtype 184)",Musculoskeletal,Medium,5473
+M17.12.09,"Unilateral primary osteoarthritis, left knee (Subtype 185)",Musculoskeletal,Medium,5779
+J44.9.09,"Chronic obstructive pulmonary disease, unspecified (Subtype 186)",Respiratory,High,9541
+I50.9.09,"Heart failure, unspecified (Subtype 187)",Cardiovascular,Critical,14303
+I25.10.09,Atherosclerotic heart disease of native coronary artery (Subtype 188),Cardiovascular,High,11446
+C50.911.09,Malignant neoplasm of unspecified site of right female breast (Subtype 189),Oncology,Critical,28592
+C34.90.09,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 190),Oncology,Critical,35688
+F32.9.09,"Major depressive disorder, single episode, unspecified (Subtype 191)",Mental Health,Medium,3580
+F41.1.09,Generalized anxiety disorder (Subtype 192),Mental Health,Low,2081
+N18.3.09,"Chronic kidney disease, stage 3 (moderate) (Subtype 193)",Renal,High,9507
+N18.4.09,"Chronic kidney disease, stage 4 (severe) (Subtype 194)",Renal,Critical,18825
+G30.9.09,"Alzheimer disease, unspecified (Subtype 195)",Neurological,High,13937
+G43.909.09,"Migraine, unspecified, not intractable (Subtype 196)",Neurological,Low,2548
+R07.9.09,"Chest pain, unspecified (Subtype 197)",Cardiovascular,Medium,3844
+L30.9.09,"Dermatitis, unspecified (Subtype 198)",Dermatology,Low,881
+K21.9.09,Gastro-esophageal reflux disease without esophagitis (Subtype 199),Digestive,Low,1706
+M54.5.09,Low back pain (Subtype 200),Musculoskeletal,Medium,3784
+I10.10,Essential (primary) hypertension (Subtype 201),Cardiovascular,Medium,3424
+E11.9.10,Type 2 diabetes mellitus without complications (Subtype 202),Metabolic,Medium,4383
+E11.65.10,Type 2 diabetes mellitus with hyperglycemia (Subtype 203),Metabolic,High,8403
+M17.11.10,"Unilateral primary osteoarthritis, right knee (Subtype 204)",Musculoskeletal,Medium,5805
+M17.12.10,"Unilateral primary osteoarthritis, left knee (Subtype 205)",Musculoskeletal,Medium,5321
+J44.9.10,"Chronic obstructive pulmonary disease, unspecified (Subtype 206)",Respiratory,High,8537
+I50.9.10,"Heart failure, unspecified (Subtype 207)",Cardiovascular,Critical,14810
+I25.10.10,Atherosclerotic heart disease of native coronary artery (Subtype 208),Cardiovascular,High,11520
+C50.911.10,Malignant neoplasm of unspecified site of right female breast (Subtype 209),Oncology,Critical,28327
+C34.90.10,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 210),Oncology,Critical,35219
+F32.9.10,"Major depressive disorder, single episode, unspecified (Subtype 211)",Mental Health,Medium,3883
+F41.1.10,Generalized anxiety disorder (Subtype 212),Mental Health,Low,2726
+N18.3.10,"Chronic kidney disease, stage 3 (moderate) (Subtype 213)",Renal,High,9664
+N18.4.10,"Chronic kidney disease, stage 4 (severe) (Subtype 214)",Renal,Critical,17926
+G30.9.10,"Alzheimer disease, unspecified (Subtype 215)",Neurological,High,13527
+G43.909.10,"Migraine, unspecified, not intractable (Subtype 216)",Neurological,Low,2192
+R07.9.10,"Chest pain, unspecified (Subtype 217)",Cardiovascular,Medium,3860
+L30.9.10,"Dermatitis, unspecified (Subtype 218)",Dermatology,Low,1936
+K21.9.10,Gastro-esophageal reflux disease without esophagitis (Subtype 219),Digestive,Low,1773
+M54.5.10,Low back pain (Subtype 220),Musculoskeletal,Medium,3161
+I10.11,Essential (primary) hypertension (Subtype 221),Cardiovascular,Medium,3110
+E11.9.11,Type 2 diabetes mellitus without complications (Subtype 222),Metabolic,Medium,4399
+E11.65.11,Type 2 diabetes mellitus with hyperglycemia (Subtype 223),Metabolic,High,8204
+M17.11.11,"Unilateral primary osteoarthritis, right knee (Subtype 224)",Musculoskeletal,Medium,5281
+M17.12.11,"Unilateral primary osteoarthritis, left knee (Subtype 225)",Musculoskeletal,Medium,5179
+J44.9.11,"Chronic obstructive pulmonary disease, unspecified (Subtype 226)",Respiratory,High,9282
+I50.9.11,"Heart failure, unspecified (Subtype 227)",Cardiovascular,Critical,15166
+I25.10.11,Atherosclerotic heart disease of native coronary artery (Subtype 228),Cardiovascular,High,11265
+C50.911.11,Malignant neoplasm of unspecified site of right female breast (Subtype 229),Oncology,Critical,28454
+C34.90.11,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 230),Oncology,Critical,35092
+F32.9.11,"Major depressive disorder, single episode, unspecified (Subtype 231)",Mental Health,Medium,4573
+F41.1.11,Generalized anxiety disorder (Subtype 232),Mental Health,Low,2012
+N18.3.11,"Chronic kidney disease, stage 3 (moderate) (Subtype 233)",Renal,High,9973
+N18.4.11,"Chronic kidney disease, stage 4 (severe) (Subtype 234)",Renal,Critical,18439
+G30.9.11,"Alzheimer disease, unspecified (Subtype 235)",Neurological,High,13674
+G43.909.11,"Migraine, unspecified, not intractable (Subtype 236)",Neurological,Low,2319
+R07.9.11,"Chest pain, unspecified (Subtype 237)",Cardiovascular,Medium,4910
+L30.9.11,"Dermatitis, unspecified (Subtype 238)",Dermatology,Low,1069
+K21.9.11,Gastro-esophageal reflux disease without esophagitis (Subtype 239),Digestive,Low,1623
+M54.5.11,Low back pain (Subtype 240),Musculoskeletal,Medium,2983
+I10.12,Essential (primary) hypertension (Subtype 241),Cardiovascular,Medium,3989
+E11.9.12,Type 2 diabetes mellitus without complications (Subtype 242),Metabolic,Medium,4808
+E11.65.12,Type 2 diabetes mellitus with hyperglycemia (Subtype 243),Metabolic,High,7814
+M17.11.12,"Unilateral primary osteoarthritis, right knee (Subtype 244)",Musculoskeletal,Medium,5282
+M17.12.12,"Unilateral primary osteoarthritis, left knee (Subtype 245)",Musculoskeletal,Medium,5632
+J44.9.12,"Chronic obstructive pulmonary disease, unspecified (Subtype 246)",Respiratory,High,9572
+I50.9.12,"Heart failure, unspecified (Subtype 247)",Cardiovascular,Critical,14376
+I25.10.12,Atherosclerotic heart disease of native coronary artery (Subtype 248),Cardiovascular,High,11680
+C50.911.12,Malignant neoplasm of unspecified site of right female breast (Subtype 249),Oncology,Critical,27897
+C34.90.12,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 250),Oncology,Critical,35756
+F32.9.12,"Major depressive disorder, single episode, unspecified (Subtype 251)",Mental Health,Medium,3723
+F41.1.12,Generalized anxiety disorder (Subtype 252),Mental Health,Low,2350
+N18.3.12,"Chronic kidney disease, stage 3 (moderate) (Subtype 253)",Renal,High,9238
+N18.4.12,"Chronic kidney disease, stage 4 (severe) (Subtype 254)",Renal,Critical,18941
+G30.9.12,"Alzheimer disease, unspecified (Subtype 255)",Neurological,High,14091
+G43.909.12,"Migraine, unspecified, not intractable (Subtype 256)",Neurological,Low,1642
+R07.9.12,"Chest pain, unspecified (Subtype 257)",Cardiovascular,Medium,4177
+L30.9.12,"Dermatitis, unspecified (Subtype 258)",Dermatology,Low,1450
+K21.9.12,Gastro-esophageal reflux disease without esophagitis (Subtype 259),Digestive,Low,1498
+M54.5.12,Low back pain (Subtype 260),Musculoskeletal,Medium,2760
+I10.13,Essential (primary) hypertension (Subtype 261),Cardiovascular,Medium,3452
+E11.9.13,Type 2 diabetes mellitus without complications (Subtype 262),Metabolic,Medium,4547
+E11.65.13,Type 2 diabetes mellitus with hyperglycemia (Subtype 263),Metabolic,High,8242
+M17.11.13,"Unilateral primary osteoarthritis, right knee (Subtype 264)",Musculoskeletal,Medium,5621
+M17.12.13,"Unilateral primary osteoarthritis, left knee (Subtype 265)",Musculoskeletal,Medium,5907
+J44.9.13,"Chronic obstructive pulmonary disease, unspecified (Subtype 266)",Respiratory,High,9060
+I50.9.13,"Heart failure, unspecified (Subtype 267)",Cardiovascular,Critical,14411
+I25.10.13,Atherosclerotic heart disease of native coronary artery (Subtype 268),Cardiovascular,High,11184
+C50.911.13,Malignant neoplasm of unspecified site of right female breast (Subtype 269),Oncology,Critical,27818
+C34.90.13,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 270),Oncology,Critical,34869
+F32.9.13,"Major depressive disorder, single episode, unspecified (Subtype 271)",Mental Health,Medium,3778
+F41.1.13,Generalized anxiety disorder (Subtype 272),Mental Health,Low,1753
+N18.3.13,"Chronic kidney disease, stage 3 (moderate) (Subtype 273)",Renal,High,9646
+N18.4.13,"Chronic kidney disease, stage 4 (severe) (Subtype 274)",Renal,Critical,18961
+G30.9.13,"Alzheimer disease, unspecified (Subtype 275)",Neurological,High,13472
+G43.909.13,"Migraine, unspecified, not intractable (Subtype 276)",Neurological,Low,1875
+R07.9.13,"Chest pain, unspecified (Subtype 277)",Cardiovascular,Medium,4272
+L30.9.13,"Dermatitis, unspecified (Subtype 278)",Dermatology,Low,853
+K21.9.13,Gastro-esophageal reflux disease without esophagitis (Subtype 279),Digestive,Low,1935
+M54.5.13,Low back pain (Subtype 280),Musculoskeletal,Medium,2862
+I10.14,Essential (primary) hypertension (Subtype 281),Cardiovascular,Medium,3776
+E11.9.14,Type 2 diabetes mellitus without complications (Subtype 282),Metabolic,Medium,3974
+E11.65.14,Type 2 diabetes mellitus with hyperglycemia (Subtype 283),Metabolic,High,8428
+M17.11.14,"Unilateral primary osteoarthritis, right knee (Subtype 284)",Musculoskeletal,Medium,5960
+M17.12.14,"Unilateral primary osteoarthritis, left knee (Subtype 285)",Musculoskeletal,Medium,5765
+J44.9.14,"Chronic obstructive pulmonary disease, unspecified (Subtype 286)",Respiratory,High,8876
+I50.9.14,"Heart failure, unspecified (Subtype 287)",Cardiovascular,Critical,14893
+I25.10.14,Atherosclerotic heart disease of native coronary artery (Subtype 288),Cardiovascular,High,11806
+C50.911.14,Malignant neoplasm of unspecified site of right female breast (Subtype 289),Oncology,Critical,28570
+C34.90.14,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 290),Oncology,Critical,34881
+F32.9.14,"Major depressive disorder, single episode, unspecified (Subtype 291)",Mental Health,Medium,3735
+F41.1.14,Generalized anxiety disorder (Subtype 292),Mental Health,Low,2095
+N18.3.14,"Chronic kidney disease, stage 3 (moderate) (Subtype 293)",Renal,High,9563
+N18.4.14,"Chronic kidney disease, stage 4 (severe) (Subtype 294)",Renal,Critical,17866
+G30.9.14,"Alzheimer disease, unspecified (Subtype 295)",Neurological,High,13836
+G43.909.14,"Migraine, unspecified, not intractable (Subtype 296)",Neurological,Low,1430
+R07.9.14,"Chest pain, unspecified (Subtype 297)",Cardiovascular,Medium,4352
+L30.9.14,"Dermatitis, unspecified (Subtype 298)",Dermatology,Low,1645
+K21.9.14,Gastro-esophageal reflux disease without esophagitis (Subtype 299),Digestive,Low,1655
+M54.5.14,Low back pain (Subtype 300),Musculoskeletal,Medium,3115
+I10.15,Essential (primary) hypertension (Subtype 301),Cardiovascular,Medium,3218
+E11.9.15,Type 2 diabetes mellitus without complications (Subtype 302),Metabolic,Medium,3835
+E11.65.15,Type 2 diabetes mellitus with hyperglycemia (Subtype 303),Metabolic,High,7762
+M17.11.15,"Unilateral primary osteoarthritis, right knee (Subtype 304)",Musculoskeletal,Medium,5899
+M17.12.15,"Unilateral primary osteoarthritis, left knee (Subtype 305)",Musculoskeletal,Medium,6003
+J44.9.15,"Chronic obstructive pulmonary disease, unspecified (Subtype 306)",Respiratory,High,9165
+I50.9.15,"Heart failure, unspecified (Subtype 307)",Cardiovascular,Critical,15037
+I25.10.15,Atherosclerotic heart disease of native coronary artery (Subtype 308),Cardiovascular,High,11305
+C50.911.15,Malignant neoplasm of unspecified site of right female breast (Subtype 309),Oncology,Critical,28475
+C34.90.15,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 310),Oncology,Critical,35429
+F32.9.15,"Major depressive disorder, single episode, unspecified (Subtype 311)",Mental Health,Medium,3485
+F41.1.15,Generalized anxiety disorder (Subtype 312),Mental Health,Low,2479
+N18.3.15,"Chronic kidney disease, stage 3 (moderate) (Subtype 313)",Renal,High,9740
+N18.4.15,"Chronic kidney disease, stage 4 (severe) (Subtype 314)",Renal,Critical,18607
+G30.9.15,"Alzheimer disease, unspecified (Subtype 315)",Neurological,High,14171
+G43.909.15,"Migraine, unspecified, not intractable (Subtype 316)",Neurological,Low,2498
+R07.9.15,"Chest pain, unspecified (Subtype 317)",Cardiovascular,Medium,4875
+L30.9.15,"Dermatitis, unspecified (Subtype 318)",Dermatology,Low,878
+K21.9.15,Gastro-esophageal reflux disease without esophagitis (Subtype 319),Digestive,Low,2266
+M54.5.15,Low back pain (Subtype 320),Musculoskeletal,Medium,2923
+I10.16,Essential (primary) hypertension (Subtype 321),Cardiovascular,Medium,3724
+E11.9.16,Type 2 diabetes mellitus without complications (Subtype 322),Metabolic,Medium,4635
+E11.65.16,Type 2 diabetes mellitus with hyperglycemia (Subtype 323),Metabolic,High,7486
+M17.11.16,"Unilateral primary osteoarthritis, right knee (Subtype 324)",Musculoskeletal,Medium,5503
+M17.12.16,"Unilateral primary osteoarthritis, left knee (Subtype 325)",Musculoskeletal,Medium,6062
+J44.9.16,"Chronic obstructive pulmonary disease, unspecified (Subtype 326)",Respiratory,High,9601
+I50.9.16,"Heart failure, unspecified (Subtype 327)",Cardiovascular,Critical,14910
+I25.10.16,Atherosclerotic heart disease of native coronary artery (Subtype 328),Cardiovascular,High,10880
+C50.911.16,Malignant neoplasm of unspecified site of right female breast (Subtype 329),Oncology,Critical,28742
+C34.90.16,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 330),Oncology,Critical,35393
+F32.9.16,"Major depressive disorder, single episode, unspecified (Subtype 331)",Mental Health,Medium,4457
+F41.1.16,Generalized anxiety disorder (Subtype 332),Mental Health,Low,1800
+N18.3.16,"Chronic kidney disease, stage 3 (moderate) (Subtype 333)",Renal,High,9488
+N18.4.16,"Chronic kidney disease, stage 4 (severe) (Subtype 334)",Renal,Critical,18396
+G30.9.16,"Alzheimer disease, unspecified (Subtype 335)",Neurological,High,13900
+G43.909.16,"Migraine, unspecified, not intractable (Subtype 336)",Neurological,Low,2215
+R07.9.16,"Chest pain, unspecified (Subtype 337)",Cardiovascular,Medium,4423
+L30.9.16,"Dermatitis, unspecified (Subtype 338)",Dermatology,Low,1385
+K21.9.16,Gastro-esophageal reflux disease without esophagitis (Subtype 339),Digestive,Low,2144
+M54.5.16,Low back pain (Subtype 340),Musculoskeletal,Medium,3040
+I10.17,Essential (primary) hypertension (Subtype 341),Cardiovascular,Medium,3665
+E11.9.17,Type 2 diabetes mellitus without complications (Subtype 342),Metabolic,Medium,4302
+E11.65.17,Type 2 diabetes mellitus with hyperglycemia (Subtype 343),Metabolic,High,7511
+M17.11.17,"Unilateral primary osteoarthritis, right knee (Subtype 344)",Musculoskeletal,Medium,6058
+M17.12.17,"Unilateral primary osteoarthritis, left knee (Subtype 345)",Musculoskeletal,Medium,5291
+J44.9.17,"Chronic obstructive pulmonary disease, unspecified (Subtype 346)",Respiratory,High,9449
+I50.9.17,"Heart failure, unspecified (Subtype 347)",Cardiovascular,Critical,15025
+I25.10.17,Atherosclerotic heart disease of native coronary artery (Subtype 348),Cardiovascular,High,10985
+C50.911.17,Malignant neoplasm of unspecified site of right female breast (Subtype 349),Oncology,Critical,28625
+C34.90.17,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 350),Oncology,Critical,34831
+F32.9.17,"Major depressive disorder, single episode, unspecified (Subtype 351)",Mental Health,Medium,3768
+F41.1.17,Generalized anxiety disorder (Subtype 352),Mental Health,Low,2898
+N18.3.17,"Chronic kidney disease, stage 3 (moderate) (Subtype 353)",Renal,High,10219
+N18.4.17,"Chronic kidney disease, stage 4 (severe) (Subtype 354)",Renal,Critical,18077
+G30.9.17,"Alzheimer disease, unspecified (Subtype 355)",Neurological,High,13805
+G43.909.17,"Migraine, unspecified, not intractable (Subtype 356)",Neurological,Low,2246
+R07.9.17,"Chest pain, unspecified (Subtype 357)",Cardiovascular,Medium,4462
+L30.9.17,"Dermatitis, unspecified (Subtype 358)",Dermatology,Low,1723
+K21.9.17,Gastro-esophageal reflux disease without esophagitis (Subtype 359),Digestive,Low,1251
+M54.5.17,Low back pain (Subtype 360),Musculoskeletal,Medium,3066
+I10.18,Essential (primary) hypertension (Subtype 361),Cardiovascular,Medium,3729
+E11.9.18,Type 2 diabetes mellitus without complications (Subtype 362),Metabolic,Medium,4113
+E11.65.18,Type 2 diabetes mellitus with hyperglycemia (Subtype 363),Metabolic,High,8331
+M17.11.18,"Unilateral primary osteoarthritis, right knee (Subtype 364)",Musculoskeletal,Medium,5184
+M17.12.18,"Unilateral primary osteoarthritis, left knee (Subtype 365)",Musculoskeletal,Medium,5512
+J44.9.18,"Chronic obstructive pulmonary disease, unspecified (Subtype 366)",Respiratory,High,9163
+I50.9.18,"Heart failure, unspecified (Subtype 367)",Cardiovascular,Critical,14435
+I25.10.18,Atherosclerotic heart disease of native coronary artery (Subtype 368),Cardiovascular,High,11053
+C50.911.18,Malignant neoplasm of unspecified site of right female breast (Subtype 369),Oncology,Critical,27786
+C34.90.18,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 370),Oncology,Critical,34833
+F32.9.18,"Major depressive disorder, single episode, unspecified (Subtype 371)",Mental Health,Medium,4320
+F41.1.18,Generalized anxiety disorder (Subtype 372),Mental Health,Low,2443
+N18.3.18,"Chronic kidney disease, stage 3 (moderate) (Subtype 373)",Renal,High,9274
+N18.4.18,"Chronic kidney disease, stage 4 (severe) (Subtype 374)",Renal,Critical,18872
+G30.9.18,"Alzheimer disease, unspecified (Subtype 375)",Neurological,High,13786
+G43.909.18,"Migraine, unspecified, not intractable (Subtype 376)",Neurological,Low,2447
+R07.9.18,"Chest pain, unspecified (Subtype 377)",Cardiovascular,Medium,4127
+L30.9.18,"Dermatitis, unspecified (Subtype 378)",Dermatology,Low,1575
+K21.9.18,Gastro-esophageal reflux disease without esophagitis (Subtype 379),Digestive,Low,2327
+M54.5.18,Low back pain (Subtype 380),Musculoskeletal,Medium,3479
+I10.19,Essential (primary) hypertension (Subtype 381),Cardiovascular,Medium,2889
+E11.9.19,Type 2 diabetes mellitus without complications (Subtype 382),Metabolic,Medium,4049
+E11.65.19,Type 2 diabetes mellitus with hyperglycemia (Subtype 383),Metabolic,High,8086
+M17.11.19,"Unilateral primary osteoarthritis, right knee (Subtype 384)",Musculoskeletal,Medium,6158
+M17.12.19,"Unilateral primary osteoarthritis, left knee (Subtype 385)",Musculoskeletal,Medium,5307
+J44.9.19,"Chronic obstructive pulmonary disease, unspecified (Subtype 386)",Respiratory,High,8832
+I50.9.19,"Heart failure, unspecified (Subtype 387)",Cardiovascular,Critical,14396
+I25.10.19,Atherosclerotic heart disease of native coronary artery (Subtype 388),Cardiovascular,High,11166
+C50.911.19,Malignant neoplasm of unspecified site of right female breast (Subtype 389),Oncology,Critical,27705
+C34.90.19,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 390),Oncology,Critical,35459
+F32.9.19,"Major depressive disorder, single episode, unspecified (Subtype 391)",Mental Health,Medium,4030
+F41.1.19,Generalized anxiety disorder (Subtype 392),Mental Health,Low,2333
+N18.3.19,"Chronic kidney disease, stage 3 (moderate) (Subtype 393)",Renal,High,10013
+N18.4.19,"Chronic kidney disease, stage 4 (severe) (Subtype 394)",Renal,Critical,18391
+G30.9.19,"Alzheimer disease, unspecified (Subtype 395)",Neurological,High,13370
+G43.909.19,"Migraine, unspecified, not intractable (Subtype 396)",Neurological,Low,1640
+R07.9.19,"Chest pain, unspecified (Subtype 397)",Cardiovascular,Medium,4069
+L30.9.19,"Dermatitis, unspecified (Subtype 398)",Dermatology,Low,1215
+K21.9.19,Gastro-esophageal reflux disease without esophagitis (Subtype 399),Digestive,Low,1207
+M54.5.19,Low back pain (Subtype 400),Musculoskeletal,Medium,3218
+I10.20,Essential (primary) hypertension (Subtype 401),Cardiovascular,Medium,2825
+E11.9.20,Type 2 diabetes mellitus without complications (Subtype 402),Metabolic,Medium,4639
+E11.65.20,Type 2 diabetes mellitus with hyperglycemia (Subtype 403),Metabolic,High,8419
+M17.11.20,"Unilateral primary osteoarthritis, right knee (Subtype 404)",Musculoskeletal,Medium,6021
+M17.12.20,"Unilateral primary osteoarthritis, left knee (Subtype 405)",Musculoskeletal,Medium,6113
+J44.9.20,"Chronic obstructive pulmonary disease, unspecified (Subtype 406)",Respiratory,High,8511
+I50.9.20,"Heart failure, unspecified (Subtype 407)",Cardiovascular,Critical,15110
+I25.10.20,Atherosclerotic heart disease of native coronary artery (Subtype 408),Cardiovascular,High,11287
+C50.911.20,Malignant neoplasm of unspecified site of right female breast (Subtype 409),Oncology,Critical,28044
+C34.90.20,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 410),Oncology,Critical,35574
+F32.9.20,"Major depressive disorder, single episode, unspecified (Subtype 411)",Mental Health,Medium,4329
+F41.1.20,Generalized anxiety disorder (Subtype 412),Mental Health,Low,2539
+N18.3.20,"Chronic kidney disease, stage 3 (moderate) (Subtype 413)",Renal,High,10004
+N18.4.20,"Chronic kidney disease, stage 4 (severe) (Subtype 414)",Renal,Critical,17962
+G30.9.20,"Alzheimer disease, unspecified (Subtype 415)",Neurological,High,13013
+G43.909.20,"Migraine, unspecified, not intractable (Subtype 416)",Neurological,Low,1901
+R07.9.20,"Chest pain, unspecified (Subtype 417)",Cardiovascular,Medium,4920
+L30.9.20,"Dermatitis, unspecified (Subtype 418)",Dermatology,Low,1369
+K21.9.20,Gastro-esophageal reflux disease without esophagitis (Subtype 419),Digestive,Low,2341
+M54.5.20,Low back pain (Subtype 420),Musculoskeletal,Medium,3125
+I10.21,Essential (primary) hypertension (Subtype 421),Cardiovascular,Medium,2900
+E11.9.21,Type 2 diabetes mellitus without complications (Subtype 422),Metabolic,Medium,4078
+E11.65.21,Type 2 diabetes mellitus with hyperglycemia (Subtype 423),Metabolic,High,7703
+M17.11.21,"Unilateral primary osteoarthritis, right knee (Subtype 424)",Musculoskeletal,Medium,5112
+M17.12.21,"Unilateral primary osteoarthritis, left knee (Subtype 425)",Musculoskeletal,Medium,5714
+J44.9.21,"Chronic obstructive pulmonary disease, unspecified (Subtype 426)",Respiratory,High,8575
+I50.9.21,"Heart failure, unspecified (Subtype 427)",Cardiovascular,Critical,14397
+I25.10.21,Atherosclerotic heart disease of native coronary artery (Subtype 428),Cardiovascular,High,10866
+C50.911.21,Malignant neoplasm of unspecified site of right female breast (Subtype 429),Oncology,Critical,28783
+C34.90.21,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 430),Oncology,Critical,35211
+F32.9.21,"Major depressive disorder, single episode, unspecified (Subtype 431)",Mental Health,Medium,4078
+F41.1.21,Generalized anxiety disorder (Subtype 432),Mental Health,Low,1879
+N18.3.21,"Chronic kidney disease, stage 3 (moderate) (Subtype 433)",Renal,High,9200
+N18.4.21,"Chronic kidney disease, stage 4 (severe) (Subtype 434)",Renal,Critical,18023
+G30.9.21,"Alzheimer disease, unspecified (Subtype 435)",Neurological,High,13853
+G43.909.21,"Migraine, unspecified, not intractable (Subtype 436)",Neurological,Low,1765
+R07.9.21,"Chest pain, unspecified (Subtype 437)",Cardiovascular,Medium,4130
+L30.9.21,"Dermatitis, unspecified (Subtype 438)",Dermatology,Low,1382
+K21.9.21,Gastro-esophageal reflux disease without esophagitis (Subtype 439),Digestive,Low,2372
+M54.5.21,Low back pain (Subtype 440),Musculoskeletal,Medium,3851
+I10.22,Essential (primary) hypertension (Subtype 441),Cardiovascular,Medium,3163
+E11.9.22,Type 2 diabetes mellitus without complications (Subtype 442),Metabolic,Medium,4632
+E11.65.22,Type 2 diabetes mellitus with hyperglycemia (Subtype 443),Metabolic,High,8585
+M17.11.22,"Unilateral primary osteoarthritis, right knee (Subtype 444)",Musculoskeletal,Medium,5737
+M17.12.22,"Unilateral primary osteoarthritis, left knee (Subtype 445)",Musculoskeletal,Medium,5073
+J44.9.22,"Chronic obstructive pulmonary disease, unspecified (Subtype 446)",Respiratory,High,8690
+I50.9.22,"Heart failure, unspecified (Subtype 447)",Cardiovascular,Critical,14712
+I25.10.22,Atherosclerotic heart disease of native coronary artery (Subtype 448),Cardiovascular,High,11461
+C50.911.22,Malignant neoplasm of unspecified site of right female breast (Subtype 449),Oncology,Critical,28354
+C34.90.22,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 450),Oncology,Critical,35376
+F32.9.22,"Major depressive disorder, single episode, unspecified (Subtype 451)",Mental Health,Medium,3538
+F41.1.22,Generalized anxiety disorder (Subtype 452),Mental Health,Low,2575
+N18.3.22,"Chronic kidney disease, stage 3 (moderate) (Subtype 453)",Renal,High,10227
+N18.4.22,"Chronic kidney disease, stage 4 (severe) (Subtype 454)",Renal,Critical,17932
+G30.9.22,"Alzheimer disease, unspecified (Subtype 455)",Neurological,High,13599
+G43.909.22,"Migraine, unspecified, not intractable (Subtype 456)",Neurological,Low,2364
+R07.9.22,"Chest pain, unspecified (Subtype 457)",Cardiovascular,Medium,4075
+L30.9.22,"Dermatitis, unspecified (Subtype 458)",Dermatology,Low,1049
+K21.9.22,Gastro-esophageal reflux disease without esophagitis (Subtype 459),Digestive,Low,1762
+M54.5.22,Low back pain (Subtype 460),Musculoskeletal,Medium,3374
+I10.23,Essential (primary) hypertension (Subtype 461),Cardiovascular,Medium,3879
+E11.9.23,Type 2 diabetes mellitus without complications (Subtype 462),Metabolic,Medium,4547
+E11.65.23,Type 2 diabetes mellitus with hyperglycemia (Subtype 463),Metabolic,High,8474
+M17.11.23,"Unilateral primary osteoarthritis, right knee (Subtype 464)",Musculoskeletal,Medium,5429
+M17.12.23,"Unilateral primary osteoarthritis, left knee (Subtype 465)",Musculoskeletal,Medium,5428
+J44.9.23,"Chronic obstructive pulmonary disease, unspecified (Subtype 466)",Respiratory,High,8619
+I50.9.23,"Heart failure, unspecified (Subtype 467)",Cardiovascular,Critical,14323
+I25.10.23,Atherosclerotic heart disease of native coronary artery (Subtype 468),Cardiovascular,High,11970
+C50.911.23,Malignant neoplasm of unspecified site of right female breast (Subtype 469),Oncology,Critical,28683
+C34.90.23,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 470),Oncology,Critical,34779
+F32.9.23,"Major depressive disorder, single episode, unspecified (Subtype 471)",Mental Health,Medium,4390
+F41.1.23,Generalized anxiety disorder (Subtype 472),Mental Health,Low,2288
+N18.3.23,"Chronic kidney disease, stage 3 (moderate) (Subtype 473)",Renal,High,9974
+N18.4.23,"Chronic kidney disease, stage 4 (severe) (Subtype 474)",Renal,Critical,18448
+G30.9.23,"Alzheimer disease, unspecified (Subtype 475)",Neurological,High,13531
+G43.909.23,"Migraine, unspecified, not intractable (Subtype 476)",Neurological,Low,2476
+R07.9.23,"Chest pain, unspecified (Subtype 477)",Cardiovascular,Medium,4977
+L30.9.23,"Dermatitis, unspecified (Subtype 478)",Dermatology,Low,1524
+K21.9.23,Gastro-esophageal reflux disease without esophagitis (Subtype 479),Digestive,Low,1465
+M54.5.23,Low back pain (Subtype 480),Musculoskeletal,Medium,3852
+I10.24,Essential (primary) hypertension (Subtype 481),Cardiovascular,Medium,3816
+E11.9.24,Type 2 diabetes mellitus without complications (Subtype 482),Metabolic,Medium,4764
+E11.65.24,Type 2 diabetes mellitus with hyperglycemia (Subtype 483),Metabolic,High,8419
+M17.11.24,"Unilateral primary osteoarthritis, right knee (Subtype 484)",Musculoskeletal,Medium,6008
+M17.12.24,"Unilateral primary osteoarthritis, left knee (Subtype 485)",Musculoskeletal,Medium,5368
+J44.9.24,"Chronic obstructive pulmonary disease, unspecified (Subtype 486)",Respiratory,High,8976
+I50.9.24,"Heart failure, unspecified (Subtype 487)",Cardiovascular,Critical,14694
+I25.10.24,Atherosclerotic heart disease of native coronary artery (Subtype 488),Cardiovascular,High,11196
+C50.911.24,Malignant neoplasm of unspecified site of right female breast (Subtype 489),Oncology,Critical,27603
+C34.90.24,Malignant neoplasm of unspecified part of bronchus or lung (Subtype 490),Oncology,Critical,34842
+F32.9.24,"Major depressive disorder, single episode, unspecified (Subtype 491)",Mental Health,Medium,3449
+F41.1.24,Generalized anxiety disorder (Subtype 492),Mental Health,Low,2652
+N18.3.24,"Chronic kidney disease, stage 3 (moderate) (Subtype 493)",Renal,High,9341
+N18.4.24,"Chronic kidney disease, stage 4 (severe) (Subtype 494)",Renal,Critical,18224
+G30.9.24,"Alzheimer disease, unspecified (Subtype 495)",Neurological,High,13849
+G43.909.24,"Migraine, unspecified, not intractable (Subtype 496)",Neurological,Low,2247
+R07.9.24,"Chest pain, unspecified (Subtype 497)",Cardiovascular,Medium,3893
+L30.9.24,"Dermatitis, unspecified (Subtype 498)",Dermatology,Low,1483
+K21.9.24,Gastro-esophageal reflux disease without esophagitis (Subtype 499),Digestive,Low,1916
+M54.5.24,Low back pain (Subtype 500),Musculoskeletal,Medium,3847
