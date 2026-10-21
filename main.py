@@ -568,18 +568,27 @@ def compile_semantic_query(request: QueryRequest) -> Dict[str, str]:
 
     return {"trino_sql": trino_sql, "local_sql": local_sql, "snowflake_sql": sf_sql}
 
+def _clean_env(key: str, default: Optional[str] = None) -> Optional[str]:
+    val = os.getenv(key, default)
+    if val is None:
+        return None
+    val = val.strip()
+    if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+        val = val[1:-1].strip()
+    return val
+
 def get_snowflake_conn():
-    sf_account = os.getenv("SNOWFLAKE_ACCOUNT")
-    sf_user = os.getenv("SNOWFLAKE_USER")
-    sf_password = os.getenv("SNOWFLAKE_PASSWORD")
+    sf_account = _clean_env("SNOWFLAKE_ACCOUNT")
+    sf_user = _clean_env("SNOWFLAKE_USER")
+    sf_password = _clean_env("SNOWFLAKE_PASSWORD")
     if not (sf_account and sf_user and sf_password):
         return None
     try:
         import snowflake.connector
-        sf_db = os.getenv("SNOWFLAKE_DATABASE", "FUSE_DB")
-        sf_schema = os.getenv("SNOWFLAKE_SCHEMA", "MEDICAL")
-        sf_wh = os.getenv("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH")
-        sf_role = os.getenv("SNOWFLAKE_ROLE", "ACCOUNTADMIN")
+        sf_db = _clean_env("SNOWFLAKE_DATABASE", "FUSE_DB")
+        sf_schema = _clean_env("SNOWFLAKE_SCHEMA", "MEDICAL")
+        sf_wh = _clean_env("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH")
+        sf_role = _clean_env("SNOWFLAKE_ROLE", "ACCOUNTADMIN")
         
         conn = snowflake.connector.connect(
             account=sf_account,

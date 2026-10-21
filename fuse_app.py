@@ -568,18 +568,27 @@ def compile_semantic_query(request: QueryRequest) -> Dict[str, str]:
 
     return {"trino_sql": trino_sql, "local_sql": local_sql, "snowflake_sql": sf_sql}
 
+def _clean_env(key: str, default: Optional[str] = None) -> Optional[str]:
+    val = os.getenv(key, default)
+    if val is None:
+        return None
+    val = val.strip()
+    if (val.startswith('"') and val.endswith('"')) or (val.startswith("'") and val.endswith("'")):
+        val = val[1:-1].strip()
+    return val
+
 def get_snowflake_conn():
-    sf_account = os.getenv("SNOWFLAKE_ACCOUNT")
-    sf_user = os.getenv("SNOWFLAKE_USER")
-    sf_password = os.getenv("SNOWFLAKE_PASSWORD")
+    sf_account = _clean_env("SNOWFLAKE_ACCOUNT")
+    sf_user = _clean_env("SNOWFLAKE_USER")
+    sf_password = _clean_env("SNOWFLAKE_PASSWORD")
     if not (sf_account and sf_user and sf_password):
         return None
     try:
         import snowflake.connector
-        sf_db = os.getenv("SNOWFLAKE_DATABASE", "FUSE_DB")
-        sf_schema = os.getenv("SNOWFLAKE_SCHEMA", "MEDICAL")
-        sf_wh = os.getenv("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH")
-        sf_role = os.getenv("SNOWFLAKE_ROLE", "ACCOUNTADMIN")
+        sf_db = _clean_env("SNOWFLAKE_DATABASE", "FUSE_DB")
+        sf_schema = _clean_env("SNOWFLAKE_SCHEMA", "MEDICAL")
+        sf_wh = _clean_env("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH")
+        sf_role = _clean_env("SNOWFLAKE_ROLE", "ACCOUNTADMIN")
         
         conn = snowflake.connector.connect(
             account=sf_account,
@@ -597,17 +606,17 @@ def get_snowflake_conn():
         return None
 
 def test_snowflake_direct():
-    sf_account = os.getenv("SNOWFLAKE_ACCOUNT")
-    sf_user = os.getenv("SNOWFLAKE_USER")
-    sf_password = os.getenv("SNOWFLAKE_PASSWORD")
+    sf_account = _clean_env("SNOWFLAKE_ACCOUNT")
+    sf_user = _clean_env("SNOWFLAKE_USER")
+    sf_password = _clean_env("SNOWFLAKE_PASSWORD")
     if not (sf_account and sf_user and sf_password):
         return False, "Snowflake credentials not configured in .env."
     try:
         import snowflake.connector
-        sf_db = os.getenv("SNOWFLAKE_DATABASE", "FUSE_DB")
-        sf_schema = os.getenv("SNOWFLAKE_SCHEMA", "MEDICAL")
-        sf_wh = os.getenv("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH")
-        sf_role = os.getenv("SNOWFLAKE_ROLE", "ACCOUNTADMIN")
+        sf_db = _clean_env("SNOWFLAKE_DATABASE", "FUSE_DB")
+        sf_schema = _clean_env("SNOWFLAKE_SCHEMA", "MEDICAL")
+        sf_wh = _clean_env("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH")
+        sf_role = _clean_env("SNOWFLAKE_ROLE", "ACCOUNTADMIN")
         
         conn = snowflake.connector.connect(
             account=sf_account,
@@ -787,7 +796,7 @@ def preview_source(source_id: str):
 @app.post("/api/sources/{source_id}/test")
 def test_source_connection(source_id: str):
     if source_id == "snowflake":
-        sf_account = os.getenv("SNOWFLAKE_ACCOUNT", "KSHNAOW-AX52661")
+        sf_account = _clean_env("SNOWFLAKE_ACCOUNT", "KSHNAOW-AX52661")
         ok, msg = test_snowflake_direct()
         if ok:
             return {
@@ -826,12 +835,12 @@ class SnowflakeConfigSave(BaseModel):
 @app.get("/api/snowflake/config")
 def get_snowflake_config():
     return {
-        "account": os.getenv("SNOWFLAKE_ACCOUNT", "KSHNAOW-AX52661"),
-        "user": os.getenv("SNOWFLAKE_USER", "NickHolmesJos"),
-        "database": os.getenv("SNOWFLAKE_DATABASE", "FUSE_DB"),
-        "schema": os.getenv("SNOWFLAKE_SCHEMA", "MEDICAL"),
-        "warehouse": os.getenv("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH"),
-        "role": os.getenv("SNOWFLAKE_ROLE", "ACCOUNTADMIN"),
+        "account": _clean_env("SNOWFLAKE_ACCOUNT", "KSHNAOW-AX52661"),
+        "user": _clean_env("SNOWFLAKE_USER", "NickHolmesJos"),
+        "database": _clean_env("SNOWFLAKE_DATABASE", "FUSE_DB"),
+        "schema": _clean_env("SNOWFLAKE_SCHEMA", "MEDICAL"),
+        "warehouse": _clean_env("SNOWFLAKE_WAREHOUSE", "COMPUTE_WH"),
+        "role": _clean_env("SNOWFLAKE_ROLE", "ACCOUNTADMIN"),
         "is_connected": get_snowflake_conn() is not None
     }
 
