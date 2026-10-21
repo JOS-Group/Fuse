@@ -1561,6 +1561,10 @@ tr:hover td{background:rgba(245,222,130,0.08);}
           <input type="text" id="cfgSfUser" class="form-input" placeholder="NickHolmesJos">
         </div>
         <div>
+          <label class="form-label">Password</label>
+          <input type="password" id="cfgSfPass" class="form-input" placeholder="••••••••">
+        </div>
+        <div>
           <label class="form-label">Database</label>
           <input type="text" id="cfgSfDb" class="form-input" value="FUSE_DB">
         </div>
@@ -1899,9 +1903,11 @@ async function testSnowflakeConnection(){
 }
 
 async function saveAndTestSnowflake(){
+  const passVal = document.getElementById('cfgSfPass') ? document.getElementById('cfgSfPass').value.trim() : '';
   const payload = {
     account: document.getElementById('cfgSfAccount').value.trim(),
     user: document.getElementById('cfgSfUser').value.trim(),
+    password: passVal || undefined,
     database: document.getElementById('cfgSfDb').value.trim(),
     schema_name: document.getElementById('cfgSfSchema').value.trim(),
     warehouse: document.getElementById('cfgSfWh').value.trim(),
