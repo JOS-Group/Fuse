@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: fuse-healthcare-platform
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn fuse_app:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: SNOWFLAKE_ACCOUNT
+        sync: false
+      - key: SNOWFLAKE_USER
+        sync: false
+      - key: SNOWFLAKE_PASSWORD
+        sync: false
+      - key: SNOWFLAKE_DATABASE
+        value: FUSE_DB
+      - key: SNOWFLAKE_SCHEMA
+        value: MEDICAL
+      - key: SNOWFLAKE_WAREHOUSE
+        value: COMPUTE_WH
+      - key: SNOWFLAKE_ROLE
+        value: ACCOUNTADMIN
+      - key: AWS_REGION
+        value: us-east-2
+      - key: AWS_S3_BUCKET
+        value: fuse-healthcare-data-lake
+      - key: AWS_ACCESS_KEY_ID
+        sync: false
+      - key: AWS_SECRET_ACCESS_KEY
+        sync: false

@@ -3,3 +3,6 @@ __pycache__/
 .DS_Store
 .venv/
 env/
+.env
+.env.*
+!.env.example
